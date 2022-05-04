@@ -62,28 +62,34 @@ I'm a freelancer who loves meeting new people and learning new things.  I volunt
 <!-- 
 - ⚡ Fun fact: bla bla bla  -->
 ---
+<div style="display: flex; justify-content: center">
+<div style="display: flex; padding:20px; width:1000px" >
 
-<p>
-<br>
-  <a><img width="50%" height="50%" align='right' src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif"></a>
-</p>
+<div style="align-self: center; padding:40px; width:350px">
 
-<br><br>
-
-## Copywriting 📒
-<P align="right">
-
+  <h1 style="align:center; color:#c799ff"> Copywriting 📒 </h1>
+<P>
 <h3>
-I write about things I'm currently learing. I break conceptsdown in&nbsp;&nbsp; very simple terms so absolute beginners in the tech space can understand them. 
+I write about things I'm currently learing. I break concepts down in very simple terms so absolute beginners in the tech space can understand them. 
 </h3>
+</div>
 
-<br><br>
-
+<div>
+  <img width="600" height="500" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
+</div>
+</div>
+</div>
 
 #
 <h2 align="center">  GitHub Stats🚀 </h2>
+
+<!-- <div style="align: center; padding: 0px; margin: 0px">
+<img class="img" width="500" height="600" src="https://github-readme-stats.vercel.app/api?username=pauline-banye&show_icons=true&theme=radical"/>
+</div>
+&nbsp; -->
+
 <div align="center">
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=pauline-banye&show_icons=true&theme=radical"/>
+<img class="img" width="800" src="https://github-readme-stats.vercel.app/api?username=pauline-banye&show_icons=true&theme=radical"/>
 </div>
 &nbsp;
 
@@ -91,45 +97,58 @@ I write about things I'm currently learing. I break conceptsdown in&nbsp;&nbsp; 
 <h2 align="center"> Programming Stack 💻 </h2>
 
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<div align="">
+<div style="display: flex; justify-content: center">
+<div style="display: flex; padding:20px; width:1000px" >
 
-<br>
-<br>
-<br>
-<br>
+<div>
+  <img width="500" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical">
+</div>
 
-<h3>
+<div style="align-self: center; padding:40px; width:350px">
+  <!-- <h1 style="align:center; color:#c799ff"> Copywriting 📒 </h1> -->
+<P>
+<h2>
 
 - Solidity
+
 - FastAPI (Python)
+
 - Django (Python)
-</h3>
+</h2>
 </div>
 
 </div>
-&nbsp;
+</div>
+
+
 
 ---
 <h2 align="center"> Languages and Tools 📚 </h2>
 
+<div style="display: flex; justify-content:center">
+<div style="width:800px; height:60px;">
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40" style="vertical-align:top; margin: 4px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="50" />   
-    <img alt="Visual Studio Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    <img src="https://img.icons8.com/color/50/000000/git.png"/>
+    <img src="https://simpleicons.org/icons/ethereum.svg" alt="cpp" height="50"/>
+    <img src="https://img.icons8.com/color/50/000000/python--v1.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" style="margin-top: 15px"/>
+    <img src="https://img.icons8.com/windows/50/000000/django.png"/>
+    <img src="https://img.icons8.com/color/50/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+    <img src="https://img.icons8.com/glyph-neue/54/000000/github.png" style="margin-top: px"/>
+  </p>
+  </div>
+  </div>
+
 
 #
 
 <h2 align="center"> Technical Skills 💼 </h2>
-
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white)
