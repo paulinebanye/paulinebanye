@@ -186,16 +186,16 @@ I write about things I'm currently learing. I break conceptsdown in&nbsp;&nbsp; 
 <p align="center">
   <a href="https://github.com/pauline-banye"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='48'></a>
   <a href="https://www.linkedin.com/in/paulinebanye">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1sT_dD9us0s2CVl4Q8ehCMVm-ruVphGXb">
   </a>
-  <a href="https://dev.to/pauline-banye"><img src='assets/devto.svg' alt='dev' height='48'></a>
+  <a href="https://dev.to/pauline-banye"><img src="https://drive.google.com/uc?export=view&id=1vYRcTYWhCTjc2nWhUUE0AxLfQ_mx7YpV" alt='dev' height='48'></a>
   <a href="https://discord.gg/WjEFnzC">
-    <img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1lfnDwWAwuClVETaLzZSAS-7sDo14UG4J">
   </a>
-  <a href="https://medium.com/@paulinebanye"><img src='assets/medium.svg' alt='medium' height='40'></a>
+  <a href="https://medium.com/@paulinebanye"><img src="https://drive.google.com/uc?export=view&id=1f2iEYAjN2ngnanm88abGO1VHy4xX8wPF" alt='medium' height='40'></a>
   </a>
   <a href="https://twitter.com/PauLynn_Bee">
-    <img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg">
+    <img alt="Twitter" title="Twitter" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1SxffvyS6y96Vvl_zIebZioRkFwqeAXP1">
 </p>
 </div>
 
