@@ -75,7 +75,7 @@ I write about things I'm currently learing. I break concepts down in very simple
 </div>
 
 <div>
-  <img width="500" height="400" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
+  <img align="center" width="500" height="400" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
 </div>
 </div>
 </div>
@@ -102,7 +102,7 @@ I write about things I'm currently learing. I break concepts down in very simple
 <div style="display: flex; padding:20px; width:1000px" >
 
 <div>
-  <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical">
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical">
 </div>
 
 <div style="align-self: center; padding:40px; width:350px">
