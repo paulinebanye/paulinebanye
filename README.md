@@ -3,9 +3,14 @@
 FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Response Copywriter ✍️ || Web3 Enthusiast 🌐 || Avid gamer 🎮
 
 </p>
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
   <img src="https://drive.google.com/uc?export=view&id=1CQNIA_adDANdeVMQVDpqvUBkV-GXgOV2" alt="my banner"/>
+</p> -->
+
+<p align="center" width="100%">
+  <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" alt="my banner"/>
 </p>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -80,6 +85,8 @@ I write about things I'm currently learing. I break concepts down in very simple
 </div>
 </div>
 
+
+
 #
 <h2 align="center">  GitHub Stats🚀 </h2>
 
@@ -102,7 +109,7 @@ I write about things I'm currently learing. I break concepts down in very simple
 <div style="display: flex; padding:20px; width:1000px" >
 
 <div>
-  <img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical">
+  <img  align="center" width="500" height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical">
 </div>
 
 <div style="align-self: center; padding:40px; width:350px">
