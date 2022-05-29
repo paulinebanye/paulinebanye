@@ -7,8 +7,8 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
   <img src="https://drive.google.com/uc?export=view&id=1CQNIA_adDANdeVMQVDpqvUBkV-GXgOV2" alt="my banner"/>
 </p> -->
 
-<p align="center" width="100%">
-  <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" alt="my banner"/>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" width="100%" alt="my banner"/>
 </p>
 
 
@@ -80,7 +80,7 @@ I write about things I'm currently learing. I break concepts down in very simple
 </div>
 
 <div>
-  <img align="center" width="500" height="400" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
+  <img align="center" width="400" height="300" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
 </div>
 </div>
 </div>
@@ -90,10 +90,6 @@ I write about things I'm currently learing. I break concepts down in very simple
 #
 <h2 align="center">  GitHub Stats🚀 </h2>
 
-<!-- <div style="align: center; padding: 0px; margin: 0px">
-<img class="img" width="500" height="600" src="https://github-readme-stats.vercel.app/api?username=pauline-banye&show_icons=true&theme=radical"/>
-</div>
-&nbsp; -->
 
 <div align="center">
 <img class="img" width="800" src="https://github-readme-stats.vercel.app/api?username=pauline-banye&show_icons=true&theme=radical"/>
@@ -105,30 +101,9 @@ I write about things I'm currently learing. I break concepts down in very simple
 
 
 
-<div style="display: flex; justify-content: center">
-<div style="display: flex; padding:20px; width:1000px" >
-
-<div>
-  <img  align="center" width="500" height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical">
-  <!-- <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical"> -->
+<div align="center">
+  <img width="500" height="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauline-banye&show_icons=true&theme=radical">
 </div>
-
-<div style="align-self: center; padding:40px; width:350px">
-  <!-- <h1 style="align:center; color:#c799ff"> Copywriting 📒 </h1> -->
-<P>
-<h3>
-
-- Solidity
-
-- FastAPI (Python)
-
-- Django (Python)
-</h3>
-</div>
-
-</div>
-</div>
-
 
 
 ---
