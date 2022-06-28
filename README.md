@@ -1,13 +1,15 @@
 <!-- # Hii&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/5JS8cUi503IM2sZrJA/giphy.gif" width="30px"> -->
-# Hii
+# Hii, I'm Pauline &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center">
 FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Response Copywriter ✍️ || Web3 Enthusiast 🌐 || Avid gamer 🎮
 
 <p align="center">
   <!-- <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" width="100%" alt="my banner"/> -->
-  <img src="https://gateway.pinata.cloud/ipfs/QmVZv53LTguy89pGTRVG3B3qX8jSYKnQMr6pHpBPQjT2GY
+  <!-- <img src="https://gateway.pinata.cloud/ipfs/QmVZv53LTguy89pGTRVG3B3qX8jSYKnQMr6pHpBPQjT2GY
+" width="100%" alt="my banner"/> -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 " width="100%" alt="my banner"/>
-</p>
+
 
 
 <h1 align="center">
