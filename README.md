@@ -2,13 +2,10 @@
 <p align="center">
 FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Response Copywriter ✍️ || Web3 Enthusiast 🌐 || Avid gamer 🎮
 
-</p>
-<!-- <p align="center" width="100%">
-  <img src="https://drive.google.com/uc?export=view&id=1CQNIA_adDANdeVMQVDpqvUBkV-GXgOV2" alt="my banner"/>
-</p> -->
-
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" width="100%" alt="my banner"/>
+  <!-- <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" width="100%" alt="my banner"/> -->
+  <img src="https://gateway.pinata.cloud/ipfs/QmVZv53LTguy89pGTRVG3B3qX8jSYKnQMr6pHpBPQjT2GY
+" width="100%" alt="my banner"/>
 </p>
 
 
@@ -46,6 +43,7 @@ I'm a freelancer who loves meeting new people and learning new things.  I volunt
 
 
 ### 👯 I’m looking to collaborate on:
+
 - Python projects (Django, FastAPI, etc)
 - Solidity projects
 
@@ -79,9 +77,9 @@ I write about things I'm currently learing. I break concepts down in very simple
 </h3>
 </div>
 
-<div>
-  <img align="center" width="400" height="300" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
-</div>
+  <div>
+    <img align="center" width="400" height="300" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
+  </div>
 </div>
 </div>
 
