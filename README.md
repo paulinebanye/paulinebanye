@@ -7,9 +7,8 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
   <!-- <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" width="100%" alt="my banner"/> -->
   <!-- <img src="https://gateway.pinata.cloud/ipfs/QmVZv53LTguy89pGTRVG3B3qX8jSYKnQMr6pHpBPQjT2GY
 " width="100%" alt="my banner"/> -->
-<!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
-" width="100%" alt="my banner"/> -->
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
+" width="100%" alt="my banner"/>
 </p>
 
 
