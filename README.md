@@ -5,9 +5,7 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
 </p>
 
 <p align="center">
-<!-- <img src="https://drive.google.com/uc?export=view&id=1L7jFHEOGAIGi5aP2rmb39LwSkTIOjTiE" width="60%" height="250px" alt="my banner"/> -->
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" height="300px" alt="my banner"/>
-<!-- <img src="https://gateway.pinata.cloud/ipfs/QmNYyV4J79xRnmh7azv5kkcFwNm5bBcw5aAMoBqiik96E8" width="50%" height="200px" alt="my banner"/> -->
 </p>
 
 
@@ -19,10 +17,8 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
 </h1>
 
 <h3 align="justify">
-I'm a freelancer who loves meeting new people and learning new things.  I volunteer and contribute to opensource projects. I enjoy DIY projects and I'm always looking to collaborate on amazing projects!
+A DIY advocate and freelancer who loves meeting new people, reading and learning new languages. I'm a creative team player and results-oriented leader who effectively led multiple teams to success in various internships and ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to opensource projects so if you have an amazing project, reach out, let's collab!
 </h3>
-
-
 
 <!-- Skills: Solidity, Python, Django, FastAPI, Photoshop, Canva -->
 <br>
@@ -31,13 +27,12 @@ I'm a freelancer who loves meeting new people and learning new things.  I volunt
 
 - My personal portfolio website
 - Learning with LearnWeb3dao
-- Smart contracts projects
-- An internship at the zuriteam
+- Smart contracts and NFTs
 - Articles on blockchain and smart contracts
 
 ### 🌱 I’m currently learning:
 - Solidity
-- React
+- JavaScript
 - HTML/CSS
 
 ### 💬 Ask me about:
@@ -60,7 +55,7 @@ I'm a freelancer who loves meeting new people and learning new things.  I volunt
     <img src="https://img.shields.io/github/followers/pauline-banye?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/pauline-banye">
-    <img src="https://img.shields.io/twitter/follow/PauLynn_Bee?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/Pauline_Banye?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
@@ -76,7 +71,7 @@ I'm a freelancer who loves meeting new people and learning new things.  I volunt
   <h1 style="align:center; color:#c799ff"> Copywriting 📒 </h1>
 <P>
 <h3>
-I write about things I'm currently learing. I break concepts down in very simple terms so absolute beginners in the tech space can understand them. 
+I write about programming languages and a little bit of fiction. I enjoy breaking concepts down in very simple terms so absolute beginners in the tech space can understand them.
 </h3>
 </div>
 
