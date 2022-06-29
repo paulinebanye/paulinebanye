@@ -1,5 +1,5 @@
-d<!-- # Hii&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/5JS8cUi503IM2sZrJA/giphy.gif" width="30px"> -->
-# Hii, I'm Pauline!
+# Hii&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/5JS8cUi503IM2sZrJA/giphy.gif" width="30px">
+<!-- # Hii, I'm Pauline! -->
 <p align="center">
 FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Response Copywriter ✍️ || Web3 Enthusiast 🌐 || Avid gamer 🎮
 </p>
