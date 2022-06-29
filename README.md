@@ -7,8 +7,10 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
   <!-- <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" width="100%" alt="my banner"/> -->
   <!-- <img src="https://gateway.pinata.cloud/ipfs/QmVZv53LTguy89pGTRVG3B3qX8jSYKnQMr6pHpBPQjT2GY
 " width="100%" alt="my banner"/> -->
-<img src="https://gateway.pinata.cloud/ipfs/QmNYyV4J79xRnmh7azv5kkcFwNm5bBcw5aAMoBqiik96E8
-" width="70%" alt="my banner"/>
+<img src="https://drive.google.com/uc?export=view&id=1L7jFHEOGAIGi5aP2rmb39LwSkTIOjTiE" width="100%" alt="my banner"/>
+
+<!-- <img src="https://gateway.pinata.cloud/ipfs/QmNYyV4J79xRnmh7azv5kkcFwNm5bBcw5aAMoBqiik96E8
+" width="70%" alt="my banner"/> -->
 </p>
 
 
@@ -204,10 +206,10 @@ I write about things I'm currently learing. I break concepts down in very simple
 </div>
 
 #
-<h2 align="center">
+<!-- <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Never stop learning!&center=true&size=30&">
   </a>
-</h2>
+</h2> -->
 
 ![Profile views](https://gpvc.arturio.dev/pauline-banye)
