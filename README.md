@@ -12,7 +12,7 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
 
 <p align="center">
 <img src="https://gateway.pinata.cloud/ipfs/QmNYyV4J79xRnmh7azv5kkcFwNm5bBcw5aAMoBqiik96E8
-" width="60%" height="200px" margin="auto" alt="my banner"/>
+" width="400px" height="200px" margin="auto" alt="my banner"/>
 </p>
 
 
@@ -85,8 +85,8 @@ I write about things I'm currently learing. I break concepts down in very simple
 </h3>
 </div>
 
-  <div>
-    <img align="center" width="400" height="300" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
+  <div align="center">
+    <img width="400" height="300" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
   </div>
 </div>
 </div>
