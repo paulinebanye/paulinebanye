@@ -1,17 +1,10 @@
-<!-- # Hii&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/5JS8cUi503IM2sZrJA/giphy.gif" width="30px"> -->
+d<!-- # Hii&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/5JS8cUi503IM2sZrJA/giphy.gif" width="30px"> -->
 # Hii, I'm Pauline!
 <p align="center">
 FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Response Copywriter ✍️ || Web3 Enthusiast 🌐 || Avid gamer 🎮
 </p>
 
-<!-- <p align="center"> -->
-  <!-- <img src="https://drive.google.com/uc?export=view&id=1FlT98VYZqhdSMzsHUIGEFS-by0W2pJSh" width="100%" alt="my banner"/> -->
-  <!-- <img src="https://gateway.pinata.cloud/ipfs/QmVZv53LTguy89pGTRVG3B3qX8jSYKnQMr6pHpBPQjT2GY
-" width="100%" alt="my banner"/> -->
-
 <p align="center">
-<!-- <img src="https://gateway.pinata.cloud/ipfs/QmNYyV4J79xRnmh7azv5kkcFwNm5bBcw5aAMoBqiik96E8
-" width="400px" height="200px" margin="auto" alt="my banner"/> -->
 <img src="https://drive.google.com/uc?export=view&id=1L7jFHEOGAIGi5aP2rmb39LwSkTIOjTiE" width="70%" height="250px" alt="my banner"/>
 </p>
 
@@ -86,7 +79,7 @@ I write about things I'm currently learing. I break concepts down in very simple
 </div>
 
   <div align="center">
-    <img width="400" height="300" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
+    <img width="600" height="300" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
   </div>
 </div>
 </div>
@@ -139,20 +132,19 @@ I write about things I'm currently learing. I break concepts down in very simple
 
 <h2 align="center"> Technical Skills 💼 </h2>
 
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=Solidity&color=black)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logocolor=red&color=red)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=MongoDB&color=mongodb)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=0077B5)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=0077B5)
-![](https://img.shields.io/badge/Code-solidity-informational?style=flat&logo=Solidity&color=0077B5)
-![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=MongoDB&color=0077B5)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=FastAPI&color=darkgreen)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
 #
 
 <h2 align="center">  GitHub Activity Graph 📈 </h2>
@@ -174,7 +166,7 @@ I write about things I'm currently learing. I break concepts down in very simple
 <h2 align="center">  GitHub Trophies 🏆 </h2>
 
 <div align="center">
-<img class="img" src="https://github-profile-trophy.vercel.app/?username=pauline-banye&show_icons=true&theme=radical"/>
+  <img class="img" src="https://github-profile-trophy.vercel.app/?username=pauline-banye&show_icons=true&theme=radical"/>
 </div>
 &nbsp;
 
