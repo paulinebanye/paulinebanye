@@ -6,7 +6,7 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
 
 <p align="center">
 <!-- <img src="https://drive.google.com/uc?export=view&id=1L7jFHEOGAIGi5aP2rmb39LwSkTIOjTiE" width="60%" height="250px" alt="my banner"/> -->
-<img src="https://gateway.pinata.cloud/ipfs/QmNYyV4J79xRnmh7azv5kkcFwNm5bBcw5aAMoBqiik96E8" width="60%" height="250px" alt="my banner"/>
+<img src="https://gateway.pinata.cloud/ipfs/QmNYyV4J79xRnmh7azv5kkcFwNm5bBcw5aAMoBqiik96E8" width="50%" height="200px" alt="my banner"/>
 </p>
 
 
