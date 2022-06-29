@@ -5,7 +5,7 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
 </p>
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1L7jFHEOGAIGi5aP2rmb39LwSkTIOjTiE" width="70%" height="250px" alt="my banner"/>
+<img src="https://drive.google.com/uc?export=view&id=1L7jFHEOGAIGi5aP2rmb39LwSkTIOjTiE" width="60%" height="250px" alt="my banner"/>
 </p>
 
 
