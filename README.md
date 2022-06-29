@@ -17,7 +17,7 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
 </h1>
 
 <h3 align="justify">
-A DIY advocate and freelancer who loves meeting new people, reading and learning new languages. I'm a creative team player and results-oriented leader who effectively led multiple teams to success in various internships and ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to opensource projects so if you have an amazing project, reach out, let's collab!
+A DIY advocate and freelancer who loves meeting new people, reading and learning new languages. I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won the NestCoin blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to opensource projects so if you have an amazing project, reach out, let's collab!
 </h3>
 
 <!-- Skills: Solidity, Python, Django, FastAPI, Photoshop, Canva -->
