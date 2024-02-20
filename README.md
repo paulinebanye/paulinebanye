@@ -1,7 +1,7 @@
 <!-- # Hii&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/5JS8cUi503IM2sZrJA/giphy.gif" width="30px"> -->
 # Hii, I'm Pauline!
 <p align="center">
-FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Response Copywriter ✍️ || Web3 Enthusiast 🌐 || Avid gamer 🎮
+Python Developer 👩‍💻 || Smart Contract Developer🧑‍💻 || Data Scientist 📈 || Data Analyst 📊 ||Web3 Enthusiast 🌐
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@ FastAPI / Django Dev 💻 || Smart Contract Developer🧑‍💻 || Direct Respo
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola!👋;I'm+a+Python+dev;Smart+contract+dev;and+copywriter...;Welcome+to+my+Profile!&center=true&size=30&">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;I'm+a+Python+dev;Smart+contract+dev;Data+analyst;and+Data+Scientist...;&center=true&size=30&">
   </a>
 </h1>
 
 <h3 align="justify">
-A DIY advocate and freelancer who loves meeting new people, reading and learning new languages. I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won the NestCoin blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to opensource projects so if you have an amazing project, reach out, let's collab!
+A Data Scientist, DIY advocate and freelancer who loves meeting new people, reading and learning new languages. I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
 </h3>
 
 <!-- Skills: Solidity, Python, Django, FastAPI, Photoshop, Canva -->
@@ -25,24 +25,27 @@ A DIY advocate and freelancer who loves meeting new people, reading and learning
 
 ### 🔭 I’m currently working on:
 
+- Data science projects
 - My personal portfolio website
 - Learning with LearnWeb3dao
 - Smart contracts and NFTs
-- Articles on blockchain and smart contracts
+
+<!-- - Articles on blockchain and smart contracts -->
 
 ### 🌱 I’m currently learning:
+- Python
 - Solidity
 - JavaScript
 - HTML/CSS
 
 ### 💬 Ask me about:
-- Solidity
+- Data Science
 - Python 
 
 
 ### 👯 I’m looking to collaborate on:
 
-- Python projects (Django, FastAPI, etc)
+- Data science projects
 - Solidity projects
 
 ### 📫 How to reach me: 
@@ -68,20 +71,23 @@ A DIY advocate and freelancer who loves meeting new people, reading and learning
 
 <div style="align-self: center; padding:40px; width:350px">
 
-  <h1 style="align:center; color:#c799ff"> Copywriting 📒 </h1>
+  <h1 style="align:center; color:#c799ff"> Data Science </h1>
 <P>
 <h3>
-I write about programming languages and a little bit of fiction. I enjoy breaking concepts down in very simple terms so absolute beginners in the tech space can understand them.
+I simplify complex concepts in data science, making them understandable even for those who are new to the field. I have a penchant for storytelling, infusing elements of fiction into my work to engage and captivate audiences while conveying technical concepts effectively.
+<!-- I write about programming languages and a little bit of fiction. I enjoy breaking concepts down in very simple terms so absolute beginners in the tech space can understand them. -->
 </h3>
 </div>
-
+  <!-- <div align="center">
+    <img width="600" height="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+  </div> -->
   <div align="center">
-    <img width="600" height="300" src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif">
+    <img width="600" height="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
   </div>
 </div>
 </div>
 
-
+"
 
 #
 <h2 align="center">  GitHub Stats🚀 </h2>
@@ -109,13 +115,17 @@ I write about programming languages and a little bit of fiction. I enjoy breakin
 <div style="width:800px; height:60px;">
 <p align="center">
     <img src="https://img.icons8.com/color/50/000000/git.png"/>
-    <img src="https://simpleicons.org/icons/ethereum.svg" alt="cpp" height="50"/>
+    <!-- <img src="https://simpleicons.org/icons/ethereum.svg" alt="cpp" height="50"/> -->
+    <img width="50" height="50" src="https://img.icons8.com/color/50/google-colab.png" alt="google-colab"/>
     <img src="https://img.icons8.com/color/50/000000/python--v1.png"/>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+    <img width="60" height="70" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/>
     <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" style="margin-top: 15px"/>
-    <img src="https://img.icons8.com/windows/50/000000/django.png"/>
+    <!-- <img src="https://img.icons8.com/windows/50/000000/django.png"/> -->
     <img src="https://img.icons8.com/color/50/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
@@ -142,6 +152,7 @@ I write about programming languages and a little bit of fiction. I enjoy breakin
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
 #
 
 <h2 align="center">  GitHub Activity Graph 📈 </h2>
@@ -185,14 +196,14 @@ I write about programming languages and a little bit of fiction. I enjoy breakin
   <a href="https://www.linkedin.com/in/paulinebanye">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1sT_dD9us0s2CVl4Q8ehCMVm-ruVphGXb">
   </a>
-  <a href="https://dev.to/pauline-banye"><img src="https://drive.google.com/uc?export=view&id=1vYRcTYWhCTjc2nWhUUE0AxLfQ_mx7YpV" alt='dev' height='48'></a>
-  <a href="https://discord.gg/WjEFnzC">
+  <!-- <a href="https://dev.to/pauline-banye"><img src="https://drive.google.com/uc?export=view&id=1vYRcTYWhCTjc2nWhUUE0AxLfQ_mx7YpV" alt='dev' height='48'></a> -->
+  <!-- <a href="https://discord.gg/WjEFnzC">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1lfnDwWAwuClVETaLzZSAS-7sDo14UG4J">
-  </a>
-  <a href="https://medium.com/@paulinebanye"><img src="https://drive.google.com/uc?export=view&id=1f2iEYAjN2ngnanm88abGO1VHy4xX8wPF" alt='medium' height='40'></a>
-  </a>
+  </a> -->
+  <!-- <a href="https://medium.com/@paulinebanye"><img src="https://drive.google.com/uc?export=view&id=1f2iEYAjN2ngnanm88abGO1VHy4xX8wPF" alt='medium' height='40'></a>
+  </a> -->
   <a href="https://twitter.com/PauLynn_Bee">
-    <img alt="Twitter" title="Twitter" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1SxffvyS6y96Vvl_zIebZioRkFwqeAXP1">
+    <img alt="Twitter" title="Twitter" height="48" width="48" src="https://drive.google.com/uc?export=view&id=1SxffvyS6y96Vvl_zIebZioRkFwqeAXP1"></a>
 </p>
 </div>
 
@@ -204,3 +215,5 @@ I write about programming languages and a little bit of fiction. I enjoy breakin
 </h2> -->
 
 ![Profile views](https://gpvc.arturio.dev/pauline-banye)
+
+<!-- git commit -am "message" && git push origin branch_name -->
