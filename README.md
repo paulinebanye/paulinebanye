@@ -171,14 +171,15 @@ I simplify complex concepts in data science, making them understandable even for
   <img class="img" src="https://github-profile-trophy.vercel.app/?username=pauline-banye&show_icons=true&theme=radical"/>
 </div>
 &nbsp;
-
+    
+<!--
 #
 ## 📕 Latest Blog Posts
 
 - [Create your first Smart contract with Remix (Noob friendly)](https://dev.to/paulinebanye/writing-your-first-smart-contract-with-remix-3b2d)
 - [Proposal - How Blockchain Technology Can Regulate The Electoral Process in Nigeria](https://medium.com/@paulinebanye/proposal-how-blockchain-technology-can-regulate-the-electoral-process-in-nigeria-6c0707a6e090)
 - [Bitcoin Hacker?](https://dev.to/paulinebanye/bitcoin-hacker-bo)
-
+-->
 
 #
 
