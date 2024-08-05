@@ -17,7 +17,7 @@ Python Developer 👩‍💻 || Data Scientist 📈 || Data Analyst 📊
 </h1>
 
 <h3 align="justify">
-A Data Scientist, DIY advocate and freelancer who loves meeting new people, reading and learning new languages. I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
+A Data Scientist, DIY advocate and freelancer who loves meeting new people, reading and learning new languages. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
 </h3>
 
 <!-- Skills: Solidity, Python, Django, FastAPI, Photoshop, Canva -->
