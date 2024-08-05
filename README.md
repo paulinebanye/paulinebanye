@@ -12,7 +12,7 @@ Python Developer 👩‍💻 || Data Scientist 📈 || Data Analyst 📊
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;I'm+a+Python+dev;Smart+contract+dev;Data+analyst;and+Data+Scientist...;&center=true&size=30&">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;I'm+a+Python+dev;Data+analyst;and+Data+Scientist...;&center=true&size=30&">
   </a>
 </h1>
 
