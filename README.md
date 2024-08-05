@@ -1,7 +1,7 @@
 <!-- # Hii&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/5JS8cUi503IM2sZrJA/giphy.gif" width="30px"> -->
 # Hii, I'm Pauline!
 <p align="center">
-Python Developer 👩‍💻 || Smart Contract Developer🧑‍💻 || Data Scientist 📈 || Data Analyst 📊 ||Web3 Enthusiast 🌐
+Python Developer 👩‍💻 || Data Scientist 📈 || Data Analyst 📊
 </p>
 
 <p align="center">
@@ -26,17 +26,12 @@ A Data Scientist, DIY advocate and freelancer who loves meeting new people, read
 ### 🔭 I’m currently working on:
 
 - Data science projects
-- My personal portfolio website
-- Learning with LearnWeb3dao
-- Smart contracts and NFTs
+- My personal portfolio
 
 <!-- - Articles on blockchain and smart contracts -->
 
 ### 🌱 I’m currently learning:
 - Python
-- Solidity
-- JavaScript
-- HTML/CSS
 
 ### 💬 Ask me about:
 - Data Science
@@ -46,7 +41,6 @@ A Data Scientist, DIY advocate and freelancer who loves meeting new people, read
 ### 👯 I’m looking to collaborate on:
 
 - Data science projects
-- Solidity projects
 
 ### 📫 How to reach me: 
 - Twitter
