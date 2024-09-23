@@ -124,7 +124,7 @@ I have a penchant for infusing storytelling into my work to engage and captivate
 
 <h2 align="center"> Languages and Tools 📚 </h2>
 <div style="display: flex; justify-content:center;width:800px; height:60px;">
-  <div align="center">
+<div align="center">
     <img src="https://img.icons8.com/color/50/000000/git.png"/>
     <img src="https://simpleicons.org/icons/cypress.svg" alt="cypress" height="50"/>
     <img width="50" height="50" src="https://img.icons8.com/color/50/google-colab.png" alt="google-colab"/>
@@ -137,7 +137,7 @@ I have a penchant for infusing storytelling into my work to engage and captivate
     <img src="https://img.icons8.com/color/50/000000/css3.png"/>
     <img src="https://img.icons8.com/glyph-neue/54/000000/github.png" style="margin-top: px"/>
   </div>
-</div>
+  </div>
 
 #
 
@@ -172,7 +172,7 @@ I have a penchant for infusing storytelling into my work to engage and captivate
 </div>
 &nbsp;
 
----
+#
 
 <h2 align="center">  GitHub Trophies 🏆 </h2>
 
@@ -181,9 +181,8 @@ I have a penchant for infusing storytelling into my work to engage and captivate
 </div>
 &nbsp;
     
----
 <p>If you want to hire me or just chat, reach out! </p>
-<br>
+<br >
 <div style="background-color: light-grey">
 <p align="center">
   <a href="https://github.com/paulinebanye">
