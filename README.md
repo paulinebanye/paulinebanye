@@ -34,7 +34,7 @@ I've learned that success in both fields requires more than technical skills. It
 I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
 
 <p align="center">
-<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" height="300px" alt="my banner"/>
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="90%" height="300px" alt="my banner"/>
 </p>
 
 ### 🔭 I’m currently working on:
