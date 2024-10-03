@@ -69,17 +69,18 @@ I'm a creative team player and results-oriented leader with a track record of ef
   <summary>More details? Click me</summary>
   
 
+  ---
   <div style="display: flex; justify-content: center">
   <div style="display: flex; padding:20px; width:1000px" >
 
   <div style="align-self: center; padding:40px; width:350px">
 
-  <h2 style="align:center; color:#c799ff">
-    Data Science | Software Quality Assurance Tester
-  </h2>
-  <P>
+  <h1 style="align:center; color:#c799ff"> Data Science </h1>
+  <p>
+  <h2 style="align:center; color:#c799ff"> Data Science | Software Quality Assurance Tester </h2>
+  <p>
   <h3>
-  Over the past few years, I've mastered the intersection of Data Science 📈 and Quality Assurance Testing 🕵🏻‍♀️, helping businesses unlock the potential of data and ensure the reliability of their software. 
+  I simplify complex concepts in data science, making them understandable even for those who are new to the field. 
 
   <br>
 
@@ -89,14 +90,12 @@ I'm a creative team player and results-oriented leader with a track record of ef
     <!-- <div align="center">
       <img width="600" height="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
     </div> -->
-    <!-- <div align="center">
-      <img width="600" height="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-    </div> -->
     <div align="center">
-      <img width="600" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
+      <img width="600" height="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
     </div>
   </div>
   </div>
+
 
   ### 💬 Ask me about:
 
@@ -127,7 +126,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
     </a>
 </p>
         
-#
+---
 
 <h2 align="center"> Technical Skills 💼 </h2>
 <p align="center" height="60">
