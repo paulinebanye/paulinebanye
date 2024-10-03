@@ -68,35 +68,29 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <details>
   <summary>More details? Click me</summary>
   
-
-  ---
-  <div style="display: flex; justify-content: center">
-  <div style="display: flex; padding:20px; width:1000px" >
-
-  <div style="align-self: center; padding:40px; width:350px">
-
-  <h1 style="align:center; color:#c799ff"> Data Science </h1>
-  <p>
-  <h2 style="align:center; color:#c799ff"> Data Science | Software Quality Assurance Tester </h2>
-  <p>
-  <h3>
-  I simplify complex concepts in data science, making them understandable even for those who are new to the field. 
+  <div align="center"><div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: left;">
+  <!-- Text column -->
+  <div style="width: 50%; padding-right: 20px;">
+    <h2 style="color:#c799ff; text-align:left;">
+      Data Science | Software Quality Assurance Tester
+    </h2>
+    <h3>
+      Over the past few years, I've mastered the intersection of Data Science 📈 and Quality Assurance Testing 🕵🏻‍♀️, helping businesses unlock the potential of data and ensure the reliability of their software. 
 
   <br>
 
   I have a penchant for infusing storytelling into my work to engage and captivate audiences while conveying technical concepts effectively.
-  </h3>
+    </h3>
   </div>
-    <!-- <div align="center">
-      <img width="600" height="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
-    </div> -->
-    <div align="center">
-      <img width="600" height="400" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-    </div>
+
+  <!-- GIF column -->
+  <div style="width: 50%; text-align:center;">
+    <img width="412" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Data Science GIF">
   </div>
   </div>
 
-
+  <div style="text-align: left;">
+  
   ### 💬 Ask me about:
 
   - API Testing
@@ -114,6 +108,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
   - Twitter
   - Linkedin
+  </div>
 </details>
 
 
@@ -178,11 +173,11 @@ I'm a creative team player and results-oriented leader with a track record of ef
 #
 
 
-<h2 align="center">  GitHub Activity Graph 📈 </h2>
+<!-- <h2 align="center">  GitHub Activity Graph 📈 </h2>
 
 ![contributions](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.gif)
 
-![contributions](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.svg)
+![contributions](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <div align="center">
 <img class="img" src="https://activity-graph.herokuapp.com/graph?username=paulinebanye&theme=radical"/>
