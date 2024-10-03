@@ -68,7 +68,8 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <details>
   <summary>More details? Click me</summary>
   
-  <div align="center"><div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: left;">
+  <div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: left;">
   <!-- Text column -->
   <div style="width: 50%; padding-right: 20px;">
     <h2 style="color:#c799ff; text-align:left;">
@@ -86,6 +87,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
     <img width="412" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Data Science GIF">
   </div>
   </div>
+</div>
 
 <div style="text-align: left;">
 
