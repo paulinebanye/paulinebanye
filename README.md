@@ -76,10 +76,8 @@ I'm a creative team player and results-oriented leader with a track record of ef
     </h2>
     <h3>
       Over the past few years, I've mastered the intersection of Data Science 📈 and Quality Assurance Testing 🕵🏻‍♀️, helping businesses unlock the potential of data and ensure the reliability of their software. 
-
-  <br>
-
-  I have a penchant for infusing storytelling into my work to engage and captivate audiences while conveying technical concepts effectively.
+    <br>
+    I have a penchant for infusing storytelling into my work to engage and captivate audiences while conveying technical concepts effectively.
     </h3>
   </div>
 
@@ -89,8 +87,8 @@ I'm a creative team player and results-oriented leader with a track record of ef
   </div>
   </div>
 
-  <div style="text-align: left;">
-  
+<div style="text-align: left;">
+
   ### 💬 Ask me about:
 
   - API Testing
