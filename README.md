@@ -68,7 +68,6 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <details>
   <summary>More details? Click me</summary>
   
-  <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: left;">
   <!-- Text column -->
   <div style="width: 50%; padding-right: 20px;">
@@ -78,14 +77,13 @@ I'm a creative team player and results-oriented leader with a track record of ef
     <h3>
       Over the past few years, I've mastered the intersection of Data Science 📈 and Quality Assurance Testing 🕵🏻‍♀️, helping businesses unlock the potential of data and ensure the reliability of their software. 
     <br>
-    I have a penchant for infusing storytelling into my work to engage and captivate audiences while conveying technical concepts effectively.
+      I have a penchant for infusing storytelling into my work to engage and captivate audiences while conveying technical concepts effectively.
     </h3>
   </div>
 
   <!-- GIF column -->
   <div style="width: 50%; text-align:center;">
     <img width="412" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Data Science GIF">
-  </div>
   </div>
 </div>
 
