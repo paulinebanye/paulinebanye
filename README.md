@@ -37,19 +37,6 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="90%" height="300px" alt="my banner"/>
 </p>
 
-### 🔭 I’m currently working on:
-
-- Data science projects
-- Software Quality Assurance Projects
-- My personal portfolio website
-
-### 🌱 I’m currently learning:
-
-- Python
-- E2E testing with Cypress
-- Mobile testing with Appium
-- JavaScript
-- HTML/CSS
 
 
 <p align="center">
@@ -82,12 +69,26 @@ I'm a creative team player and results-oriented leader with a track record of ef
   </div>
 
   <!-- GIF column -->
-  <div style="width: 50%; text-align:center;">
-    <img width="412" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Data Science GIF">
+  <div style="width: 50%; text-align:right;">
+    <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Data Science GIF">
   </div>
 </div>
 
 <div style="text-align: left;">
+
+  ### 🔭 I’m currently working on:
+
+  - Data science projects
+  - Software Quality Assurance Projects
+  - My personal portfolio website
+
+  ### 🌱 I’m currently learning:
+
+  - Python
+  - E2E testing with Cypress
+  - Mobile testing with Appium
+  - JavaScript
+  - HTML/CSS
 
   ### 💬 Ask me about:
 
