@@ -174,13 +174,20 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 <h2 align="center">  GitHub Activity Graph 📈 </h2>
 
-<!-- ![contributions](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.gif) -->
+![Contribution Graph](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.svg)
 
-![contributions](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.svg)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=paulinebanye&theme=github)
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulinebanye&theme=react-dark)
+
+
+<!-- <div align="center">
+<img class="img" src="https://activity-graph.herokuapp.com/graph?username=paulinebanye&theme=radical"/>
+</div>
 
 <div align="center">
 <img class="img" src="https://activity-graph.herokuapp.com/graph?username=paulinebanye&theme=radical"/>
-</div>
+</div> -->
 
 #
 
