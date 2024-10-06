@@ -1,4 +1,4 @@
-<img src="current banner.png" width="100%">
+<img src="imgs/current banner.png" width="100%">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -6,11 +6,11 @@
   </a>
 </h1>
 
-## Who am I?
+## Who I am:
 
 Ever wondered how it feels to predict the future using data? That curiosity led me to Data Science. My journey began with an internship focused on machine learning models for drug discovery. That first experience sparked a passion that still drives me today.
 
-My journey as a Tester began with a previous role as a Backend Developer. I periodically reviewed our software to assess its functionality and glitches. I loved viewing the software from the user’s perspective, which eventually sparked my interest in Quality Assurance testing.
+My journey as a Tester began with a previous role. As a Backend Developer on the ZuriChat project, I periodically reviewed our software to assess its functionality and provide detailed reports on all the bugs found. I loved viewing the software from the user’s perspective, which eventually sparked my interest in Quality Assurance testing.
 
 ## What I Do:
 
@@ -34,11 +34,61 @@ I've learned that success in both fields requires more than technical skills. It
 I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
 
 <p align="center">
-<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="90%" height="300px" alt="my banner"/>
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="80%" height="300px" alt="my banner"/>
 </p>
 
+<details>
+  <summary>Check out some of my projects</summary>
+  <div>
 
+  ##### `Data Projects`
+  - [Superstore Analysis](https://app.powerbi.com/view?r=eyJrIjoiMjBmZmM5MTYtMGRmMi00MGIzLThjZmUtNDZlYzMxNjFmYTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+    <img src="./imgs/superstore.PNG" height="200px" width="400px">
+  - [KMS Dashboard](https://public.tableau.com/views/KMSDashboard_16755914916100/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+    <img src="./imgs/kms.PNG" height="200px" width="400px">
+  - [Sales Dashboard](https://public.tableau.com/views/sampledata_16755784027320/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+    <img src="./imgs/sales.PNG" height="200px" width="400px">
+  - [Water Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWVkMmY0NmMtNzhiOS00MmVkLWJjYTgtZDIwMjhmNDc4Zjk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectionc4cd59c24bc7ca7553b7)
+  
+    <img src="./imgs/water.PNG" height="200px" width="400px">
+  - [Maji Ndojo dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDcyOGQwNmUtODlkYy00OWRkLTkyNmEtZjIwZTgwZWM4ZTRiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectionc4cd59c24bc7ca7553b7)
+
+    <img src="./imgs/maji%203.PNG" height="200px" width="400px">
+    
+
+  ##### `Software QA Projects`
+  - `Remote Bingo Project`
+
+    The Remote Bingo project is an online platform that allows users to create and join virtual Bingo games, offering real-time participation and a user-friendly experience across devices.
+
+    - [Bingo API tests](https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-20e0ed31-614e-4397-888c-45872bb66344?action=share&creator=37678338)
+
+      <img src="./imgs/bingo api tests.PNG" height="200px" width="400px">
+    - [Bingo APIs report](https://bingo-apis.vercel.app/)
+
+      <img src="./imgs/bingo dash.PNG" height="200px" width="400px">
+    - [Bingo E2E report](https://bingo-e2e-mauve.vercel.app/)
+
+      <img src="./imgs/bingo.PNG" height="200px" width="400px">
+    
+  - `HNG Boilerplate Project`
+
+    The HNG Boilerplate is a pre-configured starter template that helps developers quickly set up scalable web applications with essential tools for testing, linting, and deployment.
+    
+    - [Boilerplate API tests](https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-e9812dfa-ce5a-4cc5-929e-f4f14664c1a1?action=share&creator=37678338&active-environment=37678338-e726f286-5826-4324-b171-b082779c5e43)
+
+      <img src="./imgs/boilerplate api tests.PNG" height="200px" width="400px">
+    - [Boilerplate Regression Report](https://regression.vercel.app/)
+
+      <img src="./imgs/boilerplate.PNG" height="200px" width="400px">
+
+  </div>
+</details>
+
+&nbsp;&nbsp;
 <p align="center">
   <a href="https://github.com/paulinebanye?tab=followers">
     <img src="https://img.shields.io/github/followers/paulinebanye?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
@@ -52,64 +102,6 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </p>
 
 #
-<details>
-  <summary>More details? Click me</summary>
-  
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: left;">
-  <!-- Text column -->
-  <div style="width: 50%; padding-right: 20px;">
-    <h2 style="color:#c799ff; text-align:left;">
-      Data Science | Software Quality Assurance Tester
-    </h2>
-    <h3>
-      Over the past few years, I've mastered the intersection of Data Science 📈 and Quality Assurance Testing 🕵🏻‍♀️, helping businesses unlock the potential of data and ensure the reliability of their software. 
-    <br>
-      I have a penchant for infusing storytelling into my work to engage and captivate audiences while conveying technical concepts effectively.
-    </h3>
-  </div>
-
-  <!-- GIF column -->
-  <div style="width: 50%; text-align:right;">
-    <img width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Data Science GIF">
-  </div>
-</div>
-
-<div style="text-align: left;">
-
-  ### 🔭 I’m currently working on:
-
-  - Data science projects
-  - Software Quality Assurance Projects
-  - My personal portfolio website
-
-  ### 🌱 I’m currently learning:
-
-  - Python
-  - E2E testing with Cypress
-  - Mobile testing with Appium
-  - JavaScript
-  - HTML/CSS
-
-  ### 💬 Ask me about:
-
-  - API Testing
-  - E2E Testing
-  - Data Analysis
-  - Data Science
-
-  ### 👯 I’m looking to collaborate on:
-
-  - Data Science projects
-  - Data Analysis projects
-  - QA projects
-
-  ### 📫 How to reach me:
-
-  - Twitter
-  - Linkedin
-  </div>
-</details>
-
 
 
 <h2 align="center"> Languages - Tools 📚 </h2>
@@ -144,6 +136,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 ---
 
+
 <h2 align="center">  GitHub Stats🚀 </h2>
 
 <div align="center">
@@ -171,23 +164,14 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 #
 
-
-<h2 align="center">  GitHub Activity Graph 📈 </h2>
-
-![Contribution Graph](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.svg)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=paulinebanye&theme=github)
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=paulinebanye&theme=react-dark)
-
-
-<!-- <div align="center">
-<img class="img" src="https://activity-graph.herokuapp.com/graph?username=paulinebanye&theme=radical"/>
-</div>
+<h2 align="center">  Contributions 🔥 </h2>
 
 <div align="center">
-<img class="img" src="https://activity-graph.herokuapp.com/graph?username=paulinebanye&theme=radical"/>
-</div> -->
+
+![snake gif](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.gif)
+
+</div>
+&nbsp;
 
 #
 
@@ -199,7 +183,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 &nbsp;
     
 <p>If you want to hire me or just chat, reach out! </p>
-<br >
+
 <div style="background-color: light-grey">
 <p align="center">
   <a href="https://github.com/paulinebanye">
