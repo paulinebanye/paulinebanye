@@ -1,10 +1,11 @@
 <img src="imgs/current banner.png" width="100%">
-&nbsp;
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;a+Data+Analyst+📉;Data+Scientist+📊;Software+QA+Tester+🐞;and+so+much+more...;&center=true&size=30&&duration=6000">
   </a>
 </h1>
+
 
 ## Who I am:
 
@@ -42,35 +43,35 @@ I'm a creative team player and results-oriented leader with a track record of ef
   <div>
 
   ### **`Data Projects`**
-  - <p style="color: #3498db; font-weight: bold;">Superstore Analysis</p> 
+  - <p style="color: #3498db; font-weight: bold;"><strong>Superstore Analysis</strong></p> 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMjBmZmM5MTYtMGRmMi00MGIzLThjZmUtNDZlYzMxNjFmYTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
       <img src="./imgs/superstore.PNG" alt="Superstore Analysis" height="200px" width="500px">
     </a>
 
     <br>
     
-  - <p style="color: #3498db; font-weight: bold;">KMS Dashboard</p> 
+  - <p style="color: #3498db; font-weight: bold;"><strong>KMS Dashboard</strong></p> 
     <a href="https://public.tableau.com/views/KMSDashboard_16755914916100/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">
       <img src="./imgs/kms.PNG" alt="KMS Dashboard" height="200px" width="500px">
     </a>
 
     <br>
 
-  - <p style="color: #3498db; font-weight: bold;">Maji Ndojo dashboard</p> 
+  - <p style="color: #3498db; font-weight: bold;"><strong>Maji Ndojo dashboard</strong></p> 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMDAwN2JjNzQtOTllMi00OGYyLWI5N2MtMmRkZTMwODdlZWQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
       <img src="./imgs/maji.PNG" alt="Maji Ndojo dashboard" height="200px" width="500px">
     </a>
     
     <br>
     
-  - <p style="color: #3498db; font-weight: bold;">Sales Dashboard</p> 
+  - <p style="color: #3498db; font-weight: bold;"><strong>Sales Dashboard</strong></p> 
     <a href="https://public.tableau.com/views/sampledata_16755784027320/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">
       <img src="./imgs/sales.PNG" alt="Sales Dashboard" height="200px" width="500px">
     </a>
     
     <br>
     
-  - <p style="color: #3498db; font-weight: bold;">Water Analysis</p> 
+  - <p style="color: #3498db; font-weight: bold;"><strong>Water Analysis</strong></p> 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiYWVkMmY0NmMtNzhiOS00MmVkLWJjYTgtZDIwMjhmNDc4Zjk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionc4cd59c24bc7ca7553b7">
       <img src="./imgs/water.PNG" alt="Water Analysis" height="200px" width="500px">
     </a>
@@ -83,21 +84,21 @@ I'm a creative team player and results-oriented leader with a track record of ef
   - #### **`Remote Bingo Project`**
 
     The Remote Bingo project is an online platform that allows users to create and join virtual Bingo games, offering real-time participation and a user-friendly experience across devices.
-    - <p style="color: #3498db; font-weight: bold;">Bingo APIs report</p> 
+    - <p style="color: #3498db; font-weight: bold;"><strong>Bingo APIs report</strong></p> 
       <a href="https://bingo-apis.vercel.app/">
         <img src="./imgs/bingo dash.PNG" alt="Bingo APIs report" height="200px" width="500px">
       </a>
       
       <br>
     
-    - <p style="color: #3498db; font-weight: bold;">Bingo E2E report</p> 
+    - <p style="color: #3498db; font-weight: bold;"><strong>Bingo E2E report</strong></p> 
       <a href="https://bingo-e2e-mauve.vercel.app/">
         <img src="./imgs/bingo.PNG" alt="Bingo E2E report" height="200px" width="500px">
       </a>
     
       <br>
 
-    - <p style="color: #3498db; font-weight: bold;">Bingo API tests</p> 
+    - <p style="color: #3498db; font-weight: bold;"><strong>Bingo API tests</strong></p> 
       <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-20e0ed31-614e-4397-888c-45872bb66344?action=share&creator=37678338">
         <img src="./imgs/bingo api tests.PNG" alt="Bingo API tests" height="200px" width="500px">
       </a>
@@ -110,14 +111,14 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
     The HNG Boilerplate is a pre-configured starter template that helps developers quickly set up scalable web applications with essential tools for testing, linting, and deployment.
     
-    - <p style="color: #3498db; font-weight: bold;">Boilerplate Regression Report</p> 
+    - <p style="color: #3498db; font-weight: bold;"><strong>Boilerplate Regression Report</strong></p> 
       <a href="https://regression.vercel.app/">
         <img src="./imgs/boilerplate.PNG" alt="Boilerplate Regression Report" height="200px" width="500px">
       </a>
 
       <br>
     
-    - <p style="color: #3498db; font-weight: bold;">Boilerplate API tests</p> 
+    - <p style="color: #3498db; font-weight: bold;"><strong>Boilerplate API tests</strong></p> 
       <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-e9812dfa-ce5a-4cc5-929e-f4f14664c1a1?action=share&creator=37678338&active-environment=37678338-e726f286-5826-4324-b171-b082779c5e43">
         <img src="./imgs/boilerplate api tests.PNG" alt="Boilerplate API tests" height="200px" width="500px">
       </a>    
@@ -137,7 +138,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
   </a>
 </p>
 
-#
+---
 
 
 <h2 align="center"> Languages - Tools 📚 </h2>
