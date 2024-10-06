@@ -144,7 +144,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,vscode,python,html,css,javascript,mysql,postman,anaconda,postgresql" />
-        <img width="35" height="35" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo" style="border-radius: 10px; background-color: #000000; padding: 5px; border: 2px solid #000000;" />
+        <img width="35" height="35" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo" style="border-radius: 10px; color:#272727;background-color: #272727; padding: 5px; border: 2px solid #272727;" />
     </a>
 </p>
         
