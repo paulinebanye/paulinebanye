@@ -38,53 +38,89 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </p>
 
 <details>
-  <summary>Check out some of my projects</summary>
+  <summary><strong>Click me!</strong></summary>
   <div>
 
-  ##### `Data Projects`
-  - [Superstore Analysis](https://app.powerbi.com/view?r=eyJrIjoiMjBmZmM5MTYtMGRmMi00MGIzLThjZmUtNDZlYzMxNjFmYTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+  ### **`Data Projects`**
+  - <p style="color: #3498db; font-weight: bold;">Superstore Analysis</p> 
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMjBmZmM5MTYtMGRmMi00MGIzLThjZmUtNDZlYzMxNjFmYTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
+      <img src="./imgs/superstore.PNG" alt="Superstore Analysis" height="200px" width="400px">
+    </a>
 
-    <img src="./imgs/superstore.PNG" height="200px" width="400px">
-  - [KMS Dashboard](https://public.tableau.com/views/KMSDashboard_16755914916100/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+    <br>
+    
+  - <p style="color: #3498db; font-weight: bold;">KMS Dashboard</p> 
+    <a href="https://public.tableau.com/views/KMSDashboard_16755914916100/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">
+      <img src="./imgs/kms.PNG" alt="KMS Dashboard" height="200px" width="400px">
+    </a>
 
-    <img src="./imgs/kms.PNG" height="200px" width="400px">
-  - [Sales Dashboard](https://public.tableau.com/views/sampledata_16755784027320/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+    <br>
 
-    <img src="./imgs/sales.PNG" height="200px" width="400px">
-  - [Water Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWVkMmY0NmMtNzhiOS00MmVkLWJjYTgtZDIwMjhmNDc4Zjk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectionc4cd59c24bc7ca7553b7)
-  
-    <img src="./imgs/water.PNG" height="200px" width="400px">
-  - [Maji Ndojo dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDcyOGQwNmUtODlkYy00OWRkLTkyNmEtZjIwZTgwZWM4ZTRiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectionc4cd59c24bc7ca7553b7)
-
-    <img src="./imgs/maji%203.PNG" height="200px" width="400px">
+  - <p style="color: #3498db; font-weight: bold;">Maji Ndojo dashboard</p> 
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMDAwN2JjNzQtOTllMi00OGYyLWI5N2MtMmRkZTMwODdlZWQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
+      <img src="./imgs/maji.PNG" alt="Maji Ndojo dashboard" height="200px" width="400px">
+    </a>
+    
+    <br>
+    
+  - <p style="color: #3498db; font-weight: bold;">Sales Dashboard</p> 
+    <a href="https://public.tableau.com/views/sampledata_16755784027320/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">
+      <img src="./imgs/sales.PNG" alt="Sales Dashboard" height="200px" width="400px">
+    </a>
+    
+    <br>
+    
+  - <p style="color: #3498db; font-weight: bold;">Water Analysis</p> 
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiYWVkMmY0NmMtNzhiOS00MmVkLWJjYTgtZDIwMjhmNDc4Zjk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionc4cd59c24bc7ca7553b7">
+      <img src="./imgs/water.PNG" alt="Water Analysis" height="200px" width="400px">
+    </a>
+    
+    <br>
+    
     
 
-  ##### `Software QA Projects`
-  - `Remote Bingo Project`
+  ### **`Software QA Projects`**
+  - **`Remote Bingo Project`**
 
     The Remote Bingo project is an online platform that allows users to create and join virtual Bingo games, offering real-time participation and a user-friendly experience across devices.
-
-    - [Bingo API tests](https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-20e0ed31-614e-4397-888c-45872bb66344?action=share&creator=37678338)
-
-      <img src="./imgs/bingo api tests.PNG" height="200px" width="400px">
-    - [Bingo APIs report](https://bingo-apis.vercel.app/)
-
-      <img src="./imgs/bingo dash.PNG" height="200px" width="400px">
-    - [Bingo E2E report](https://bingo-e2e-mauve.vercel.app/)
-
-      <img src="./imgs/bingo.PNG" height="200px" width="400px">
+    - <p style="color: #3498db; font-weight: bold;">Bingo APIs report</p> 
+      <a href="https://bingo-apis.vercel.app/">
+        <img src="./imgs/bingo dash.PNG" alt="Bingo APIs report" height="200px" width="400px">
+      </a>
+      
+      <br>
     
-  - `HNG Boilerplate Project`
+    - <p style="color: #3498db; font-weight: bold;">Bingo E2E report</p> 
+      <a href="https://bingo-e2e-mauve.vercel.app/">
+        <img src="./imgs/bingo.PNG" alt="Bingo E2E report" height="200px" width="400px">
+      </a>
+    
+      <br>
+
+    - <p style="color: #3498db; font-weight: bold;">Bingo API tests</p> 
+      <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-20e0ed31-614e-4397-888c-45872bb66344?action=share&creator=37678338">
+        <img src="./imgs/bingo api tests.PNG" alt="Bingo API tests" height="200px" width="400px">
+      </a>
+      
+      <br>
+    
+    
+
+  - **`HNG Boilerplate Project`**
 
     The HNG Boilerplate is a pre-configured starter template that helps developers quickly set up scalable web applications with essential tools for testing, linting, and deployment.
     
-    - [Boilerplate API tests](https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-e9812dfa-ce5a-4cc5-929e-f4f14664c1a1?action=share&creator=37678338&active-environment=37678338-e726f286-5826-4324-b171-b082779c5e43)
+    - <p style="color: #3498db; font-weight: bold;">Boilerplate Regression Report</p> 
+      <a href="https://regression.vercel.app/">
+        <img src="./imgs/boilerplate.PNG" alt="Boilerplate Regression Report" height="200px" width="400px">
+      </a>
 
-      <img src="./imgs/boilerplate api tests.PNG" height="200px" width="400px">
-    - [Boilerplate Regression Report](https://regression.vercel.app/)
-
-      <img src="./imgs/boilerplate.PNG" height="200px" width="400px">
-
+      <br>
+    
+    - <p style="color: #3498db; font-weight: bold;">Boilerplate API tests</p> 
+      <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-e9812dfa-ce5a-4cc5-929e-f4f14664c1a1?action=share&creator=37678338&active-environment=37678338-e726f286-5826-4324-b171-b082779c5e43">
+        <img src="./imgs/boilerplate api tests.PNG" alt="Boilerplate API tests" height="200px" width="400px">
+      </a>    
   </div>
 </details>
 
@@ -167,9 +203,8 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <h2 align="center">  Contributions 🔥 </h2>
 
 <div align="center">
-
-![snake gif](https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.gif)
-
+  <img width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-snake.svg" alt="my contributions">
+ 
 </div>
 &nbsp;
 
