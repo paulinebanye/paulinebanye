@@ -80,7 +80,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
     
 
   ### **`Software QA Projects`**
-  - **`Remote Bingo Project`**
+  - #### **`Remote Bingo Project`**
 
     The Remote Bingo project is an online platform that allows users to create and join virtual Bingo games, offering real-time participation and a user-friendly experience across devices.
     - <p style="color: #3498db; font-weight: bold;">Bingo APIs report</p> 
@@ -106,7 +106,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
     
     
 
-  - **`HNG Boilerplate Project`**
+  - #### **`HNG Boilerplate Project`**
 
     The HNG Boilerplate is a pre-configured starter template that helps developers quickly set up scalable web applications with essential tools for testing, linting, and deployment.
     
@@ -200,10 +200,12 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 #
 
-<h2 align="center">  Contributions 🔥 </h2>
+<h2 align="center">  Contributions 👷🏻‍♀️ </h2>
 
-<div align="center">
-  <img width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-snake.svg" alt="my contributions">
+![snake gif](https://github.com/paulinebanye/paulinebanye/blob/output/github-snake.svg)
+
+<!-- <div align="center">
+  <img width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-snake.svg" alt="my contributions"> -->
  
 </div>
 &nbsp;
