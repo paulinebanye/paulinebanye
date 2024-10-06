@@ -144,7 +144,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,vscode,python,html,css,javascript,mysql,postman,anaconda,postgresql" />
-        <img width="60" height="70" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+        <img width="35" height="35" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo" style="border-radius: 10px; background-color: #272727; padding: 5px; border: 2px solid #272727;" />
     </a>
 </p>
         
@@ -153,21 +153,21 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <h2 align="center"> Technical Skills 💼 </h2>
 <p align="center" height="60">
   <img height="20" src="https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logocolor=181717&color=black" alt="appium-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logocolor=00C7B7&color=black" alt="cypress-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logocolor=181717&color=black" alt="tableau-logo"/>
   <img height="20" src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logocolor=0077B5&color=black" alt="python-logo"/>
+  <img height="20" src="https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logocolor=181717&color=black" alt="tableau-logo"/>
+  <img height="20" src="https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logocolor=00C7B7&color=black" alt="cypress-logo"/>  
   <img height="20" src="https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&color=black" alt="solidity-logo"/>
+  <img height="20" src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logocolor=F05032&color=black" alt="git-logo"/>
   <img height="20" src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logocolor=336791&color=black" alt="postgresql-logo"/>
   <img height="20" src="https://img.shields.io/badge/Colab-informational?style=flat&logo=GoogleColab&logocolor=181717&color=black" alt="colab-logo"/>
   <img height="20" src="https://img.shields.io/badge/Anaconda-informational?style=flat&logo=Anaconda&logocolor=181717&color=black" alt="anaconda-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logocolor=F05032&color=black" alt="git-logo"/>
+  <img height="20" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=black" alt="django-logo"/>
   <img height="20" src="https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logocolor=181717&color=black" alt="jupyter-logo"/>
-  <img height="20" src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logocolor=181717&color=black" alt="github-logo"/>
   <img height="20" src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&color=black" alt="fastapi-logo"/>
   <img height="20" src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&color=black" alt="javascript-logo"/>
   <img height="20" src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logocolor=red&color=black" alt="HTML5-logo"/>
   <img height="20" src="https://img.shields.io/badge/mongodb-informational?style=flat&logo=MongoDB&logocolor=mongodb&color=black" alt="mongodb-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=black" alt="django-logo"/>
+  <img height="20" src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logocolor=181717&color=black" alt="github-logo"/>
 </p>
 
 ---
@@ -215,7 +215,8 @@ I'm a creative team player and results-oriented leader with a track record of ef
   <img class="img" width="80%" src="https://github-profile-trophy.vercel.app/?username=paulinebanye&show_icons=true&theme=radical"/>
 </div>
 &nbsp;
-    
+
+#    
 <p>If you want to hire me or just chat, reach out! </p>
 
 <div style="background-color: light-grey">
