@@ -185,7 +185,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <h2 align="center"> Programming Stack 💻 </h2>
 
 <div align="center">
-  <img width="80%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&show_icons=true&theme=radical">
+  <img class="img" width="80%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&show_icons=true&theme=radical">
 </div>
 
 ---
@@ -202,11 +202,8 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 <h2 align="center">  Contributions 👷🏻‍♀️ </h2>
 
-![snake gif](https://github.com/paulinebanye/paulinebanye/blob/output/github-snake.svg)
-
-<!-- <div align="center">
-  <img width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-snake.svg" alt="my contributions"> -->
- 
+<div align="center">
+  <img class="img" width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-snake.svg" alt="my contributions">
 </div>
 &nbsp;
 
@@ -215,7 +212,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <h2 align="center">  GitHub Trophies 🏆 </h2>
 
 <div align="center">
-  <img class="img" src="https://github-profile-trophy.vercel.app/?username=paulinebanye&show_icons=true&theme=radical"/>
+  <img class="img" width="80%" src="https://github-profile-trophy.vercel.app/?username=paulinebanye&show_icons=true&theme=radical"/>
 </div>
 &nbsp;
     
