@@ -6,7 +6,6 @@
   </a>
 </h1>
 
-
 ## Who I am:
 
 Ever wondered how it feels to predict the future using data? That curiosity led me to Data Science. My journey began with an internship focused on machine learning models for drug discovery. That first experience sparked a passion that still drives me today.
@@ -39,88 +38,128 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </p>
 
 <details>
-  <summary><strong>Click me!</strong></summary>
+  <summary>
+    <strong>
+      Click me!
+    </strong>
+  </summary>
   <div>
 
   ### **`Data Projects`**
-  - <p style="color: #3498db; font-weight: bold;"><strong>Superstore Analysis</strong></p> 
+  - <p style="color: #3498db; font-weight: bold;">
+      <strong>
+        Superstore Analysis
+      </strong>
+    </p> 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMjBmZmM5MTYtMGRmMi00MGIzLThjZmUtNDZlYzMxNjFmYTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
-      <img src="./imgs/superstore.PNG" alt="Superstore Analysis" height="200px" width="500px">
+      <img src="./imgs/superstore.PNG" alt="Superstore Analysis" height="250px" width="450px">
     </a>
 
     <br>
     
-  - <p style="color: #3498db; font-weight: bold;"><strong>KMS Dashboard</strong></p> 
+  - <p style="color: #3498db; font-weight: bold;">
+      <strong>
+        KMS Dashboard
+      </strong>
+    </p> 
     <a href="https://public.tableau.com/views/KMSDashboard_16755914916100/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">
-      <img src="./imgs/kms.PNG" alt="KMS Dashboard" height="200px" width="500px">
+      <img src="./imgs/kms.PNG" alt="KMS Dashboard" height="250px" width="450px">
     </a>
 
     <br>
 
-  - <p style="color: #3498db; font-weight: bold;"><strong>Maji Ndojo dashboard</strong></p> 
+  - <p style="color: #3498db; font-weight: bold;">
+      <strong>
+        Maji Ndojo dashboard
+      </strong>
+    </p> 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMDAwN2JjNzQtOTllMi00OGYyLWI5N2MtMmRkZTMwODdlZWQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
-      <img src="./imgs/maji.PNG" alt="Maji Ndojo dashboard" height="200px" width="500px">
+      <img src="./imgs/maji.PNG" alt="Maji Ndojo dashboard" height="250px" width="450px">
     </a>
     
     <br>
     
-  - <p style="color: #3498db; font-weight: bold;"><strong>Sales Dashboard</strong></p> 
+  - <p style="color: #3498db; font-weight: bold;">
+      <strong>
+        Sales Dashboard
+      </strong>
+    </p> 
     <a href="https://public.tableau.com/views/sampledata_16755784027320/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">
-      <img src="./imgs/sales.PNG" alt="Sales Dashboard" height="200px" width="500px">
+      <img src="./imgs/sales.PNG" alt="Sales Dashboard" height="250px" width="450px">
     </a>
     
     <br>
     
-  - <p style="color: #3498db; font-weight: bold;"><strong>Water Analysis</strong></p> 
+  - <p style="color: #3498db; font-weight: bold;">
+      <strong>
+        Water Analysis
+      </strong>
+    </p> 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiYWVkMmY0NmMtNzhiOS00MmVkLWJjYTgtZDIwMjhmNDc4Zjk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionc4cd59c24bc7ca7553b7">
-      <img src="./imgs/water.PNG" alt="Water Analysis" height="200px" width="500px">
+      <img src="./imgs/water.PNG" alt="Water Analysis" height="250px" width="450px">
     </a>
     
     <br>
-    
-    
 
   ### **`Software QA Projects`**
   - #### **`Remote Bingo Project`**
 
     The Remote Bingo project is an online platform that allows users to create and join virtual Bingo games, offering real-time participation and a user-friendly experience across devices.
-    - <p style="color: #3498db; font-weight: bold;"><strong>Bingo APIs report</strong></p> 
+    - <p style="color: #3498db; font-weight: bold;">
+        <strong>
+          Bingo APIs report
+        </strong>
+      </p> 
       <a href="https://bingo-apis.vercel.app/">
-        <img src="./imgs/bingo dash.PNG" alt="Bingo APIs report" height="200px" width="500px">
+        <img src="./imgs/bingo dash.PNG" alt="Bingo APIs report" height="250px" width="450px">
       </a>
       
       <br>
     
-    - <p style="color: #3498db; font-weight: bold;"><strong>Bingo E2E report</strong></p> 
+    - <p style="color: #3498db; font-weight: bold;">
+        <strong>
+          Bingo E2E report
+        </strong>
+      </p> 
       <a href="https://bingo-e2e-mauve.vercel.app/">
-        <img src="./imgs/bingo.PNG" alt="Bingo E2E report" height="200px" width="500px">
+        <img src="./imgs/bingo.PNG" alt="Bingo E2E report" height="250px" width="450px">
       </a>
     
       <br>
 
-    - <p style="color: #3498db; font-weight: bold;"><strong>Bingo API tests</strong></p> 
+    - <p style="color: #3498db; font-weight: bold;">
+        <strong>
+          Bingo API tests
+        </strong>
+      </p> 
       <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-20e0ed31-614e-4397-888c-45872bb66344?action=share&creator=37678338">
-        <img src="./imgs/bingo api tests.PNG" alt="Bingo API tests" height="200px" width="500px">
+        <img src="./imgs/bingo api tests.PNG" alt="Bingo API tests" height="250px" width="450px">
       </a>
       
-      <br>
-    
-    
+      <br>   
 
   - #### **`HNG Boilerplate Project`**
 
     The HNG Boilerplate is a pre-configured starter template that helps developers quickly set up scalable web applications with essential tools for testing, linting, and deployment.
     
-    - <p style="color: #3498db; font-weight: bold;"><strong>Boilerplate Regression Report</strong></p> 
+    - <p style="color: #3498db; font-weight: bold;">
+        <strong>
+          Boilerplate Regression Report
+        </strong>
+      </p> 
       <a href="https://regression.vercel.app/">
-        <img src="./imgs/boilerplate.PNG" alt="Boilerplate Regression Report" height="200px" width="500px">
+        <img src="./imgs/boilerplate.PNG" alt="Boilerplate Regression Report" height="250px" width="450px">
       </a>
 
       <br>
     
-    - <p style="color: #3498db; font-weight: bold;"><strong>Boilerplate API tests</strong></p> 
+    - <p style="color: #3498db; font-weight: bold;">
+        <strong>
+          Boilerplate API tests
+        </strong>
+      </p> 
       <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-e9812dfa-ce5a-4cc5-929e-f4f14664c1a1?action=share&creator=37678338&active-environment=37678338-e726f286-5826-4324-b171-b082779c5e43">
-        <img src="./imgs/boilerplate api tests.PNG" alt="Boilerplate API tests" height="200px" width="500px">
+        <img src="./imgs/boilerplate api tests.PNG" alt="Boilerplate API tests" height="250px" width="450px">
       </a>    
   </div>
 </details>
@@ -140,18 +179,21 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 ---
 
-
-<h2 align="center"> Languages - Tools 📚 </h2>
+<h2 align="center">
+  Languages - Tools 📚
+</h2>
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,vscode,python,html,css,javascript,mysql,postman,anaconda,postgresql" />
-        <!-- <img width="35" height="35" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo" style="border-radius: 10px; color:#272727;background-color: #272727; padding: 5px; border: 2px solid #272727;" /> -->
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,html,css,javascript,mysql,postman,anaconda,postgresql" />
+    <!-- <img width="35" height="35" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo" style="border-radius: 10px; color:#272727;background-color: #272727; padding: 5px; border: 2px solid #272727;" /> -->
+  </a>
 </p>
 &nbsp;        
 
 
-<h2 align="center"> Technical Skills 💼 </h2>
+<h2 align="center">
+  Technical Skills 💼
+</h2>
 <p align="center" height="60">
   <img height="20" src="https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logocolor=181717&color=black" alt="appium-logo"/>
   <img height="20" src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logocolor=0077B5&color=black" alt="python-logo"/>
@@ -174,40 +216,45 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 ---
 
-
-<h2 align="center">  GitHub Stats🚀 </h2>
+<h2 align="center">
+  GitHub Stats🚀
+</h2>
 
 <div align="center">
-<img class="img" width="80%" src="https://github-readme-stats.vercel.app/api?username=paulinebanye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img class="img" width="80%" src="https://github-readme-stats.vercel.app/api?username=paulinebanye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 &nbsp;
 
-<h2 align="center"> Programming Stack 💻 </h2>
+<h2 align="center">
+  Programming Stack 💻
+</h2>
 
 <div align="center">
   <img class="img" width="80%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&show_icons=true&theme=radical">
 </div>
 &nbsp;
 
-<h2 align="center">  GitHub Streak 🔥 </h2>
+<h2 align="center">
+  GitHub Streak 🔥
+</h2>
 
 <div align="center">
-<img class="img" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulinebanye&theme=radical"/>
+  <img class="img" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulinebanye&theme=radical"/>
 </div>
 &nbsp;
 
-
-
-<h2 align="center">  Contributions 👷🏻‍♀️ </h2>
+<h2 align="center">
+  Contributions 👷🏻‍♀️
+</h2>
 
 <div align="center">
   <img class="img" width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-snake.svg" alt="my contributions">
 </div>
 &nbsp;
 
-
-
-<h2 align="center">  GitHub Trophies 🏆 </h2>
+<h2 align="center">
+  GitHub Trophies 🏆
+</h2>
 
 <div align="center">
   <img class="img" width="80%" src="https://github-profile-trophy.vercel.app/?username=paulinebanye&show_icons=true&theme=radical"/>
@@ -215,20 +262,22 @@ I'm a creative team player and results-oriented leader with a track record of ef
 &nbsp;
 
 ---    
-<p>If you want to hire me or just chat, reach out! </p>
+<p>
+  If you want to hire me or just chat, reach out!
+</p>
 
 <div style="background-color: light-grey">
-<p align="center">
-  <a href="https://github.com/paulinebanye">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);">
-  </a>
-  <a href="https://www.linkedin.com/in/paulinebanye">
-    <img alt="LinkedIn" title="LinkedIn" height="30" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/linkedin.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);">
-  </a>
-  <a href="https://x.com/paulinebanye">
-    <img alt="Twitter" title="Twitter" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/x.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);">
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/paulinebanye">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);">
+    </a>
+    <a href="https://www.linkedin.com/in/paulinebanye">
+      <img alt="LinkedIn" title="LinkedIn" height="30" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/linkedin.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);">
+    </a>
+    <a href="https://x.com/paulinebanye">
+      <img alt="Twitter" title="Twitter" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/x.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);">
+    </a>
+  </p>
 </div>
 
 
