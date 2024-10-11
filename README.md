@@ -248,8 +248,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </h2>
 
 <div align="center">
-  <!-- <img class="img" width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.svg" alt="my contributions"> -->
-  <img class="img" width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake-dark.svg" alt="my contributions">
+  <img class="img" width="80%" src="https://github.com/paulinebanye/paulinebanye/blob/output/github-contribution-grid-snake.svg" alt="my contributions">
 </div>
 &nbsp;
 
