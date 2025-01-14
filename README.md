@@ -1,18 +1,20 @@
-<img src="imgs/current banner.png" width="100%">
+<img src="imgs/bg2.png" width="100%">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
+<p align="center" width="100%">
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="80%" height="300px" alt="my banner"/>
+</p>
+
+<p align="center"><a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;a+Data+Analyst+📉;Data+Scientist+📊;Software+QA+Tester+🐞;and+so+much+more...;&center=true&size=30&&duration=6000">
-  </a>
-</h1>
+</a></p>
 
-## Who I am:
+## <h2 style="align:center; color:#c799ff"> **Who I am:** </h2>
 
 Ever wondered how it feels to predict the future using data? That curiosity led me to Data Science. My journey began with an internship focused on machine learning models for drug discovery. That first experience sparked a passion that still drives me today.
 
 My journey as a Tester began with a previous role. As a Backend Developer on the ZuriChat project, I periodically reviewed our software to assess its functionality and provide detailed reports on all the bugs found. I loved viewing the software from the user’s perspective, which eventually sparked my interest in Quality Assurance testing.
 
-## What I Do:
+## <h2 style="align:center; color:#c799ff"> **What I Do:** </h2>
 
 ### `Data Science Expertise`
 
@@ -21,6 +23,8 @@ My journey as a Tester began with a previous role. As a Backend Developer on the
 - Create visualizations to tell compelling data stories.
 - Apply statistical analysis to validate findings.
 - Forecast future outcomes to drive business growth.
+<p align="center" width="100%">
+<img src="imgs\ds1.jpeg" width="90%" height="250px" alt="my banner"/></p>
 
 ### `Quality Assurance Testing`
 
@@ -29,17 +33,17 @@ My journey as a Tester began with a previous role. As a Backend Developer on the
 - Optimized software performance with load and stress testing.
 - Identified and resolved defects with precision and accuracy.
 
+<p align="center" width="100%">
+<img src="imgs\qa2.png" width="90%" height="250px" alt="my banner"/></p>
+
 I've learned that success in both fields requires more than technical skills. It's about asking the right questions, thinking creatively, and effectively communicating complex ideas.
+
 
 I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
 
-<p align="center">
-<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="80%" height="300px" alt="my banner"/>
-</p>
-
 <details>
   <summary>
-    <strong>
+    <strong style="color:#c799ff">
       Click me!
     </strong>
   </summary>
@@ -185,7 +189,6 @@ I'm a creative team player and results-oriented leader with a track record of ef
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,python,html,css,javascript,mysql,postman,anaconda,postgresql" />
-    <!-- <img width="35" height="35" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo" style="border-radius: 10px; color:#272727;background-color: #272727; padding: 5px; border: 2px solid #272727;" /> -->
   </a>
 </p>
 &nbsp;        
