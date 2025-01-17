@@ -1,6 +1,5 @@
-<img src="imgs/bg.png" width="100%">
-
 <p align="center" width="100%">
+<img src="imgs/bg.png" width="100%">
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="80%" height="300px" alt="my banner"/>
 </p>
 
