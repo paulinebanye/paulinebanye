@@ -243,7 +243,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </h2>
 
 <div align="center">
-  <img class="img" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulinebanye&theme=radical"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paulinebanye&theme=radical" alt="GitHub Streak" /></a>
 </div>
 &nbsp;
 
