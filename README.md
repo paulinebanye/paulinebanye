@@ -4,16 +4,18 @@
 </p> 
 
 <p align="center"><a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;a+Data+Analyst+📉;Data+Scientist+📊;Software+QA+Tester+🐞;and+so+much+more...;&center=true&size=30&&duration=6000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;a+Data+Scientist+📊;Data+Analyst+📉;Software+QA+Tester+🐞;and+so+much+more...;&center=true&size=30&&duration=6000">
 </a></p>
 
-## <h2 style="align:center; color:#c799ff"> **Who I am:** </h2>
+<!-- #### **<div style="font-variant: small-caps; color: blue; margin: 0; padding: 0; line-height: 1; display: inline-block;vertical-align: bottom;" id="import-libraries">Import Libraries</div>**<span style="float: right;"><a href="#table-of-contents" title="Back to Table of Contents">🔼</a></span> -->
+
+## <h2 style="font-variant: small-caps; align:center; color:#c799ff;">**Who I am:**</h2>
 
 Ever wondered how it feels to predict the future using data? That curiosity led me to Data Science. My journey began with an internship focused on machine learning models for drug discovery. That first experience sparked a passion that still drives me today.
 
 My journey as a Tester began with a previous role. As a Backend Developer on the ZuriChat project, I periodically reviewed our software to assess its functionality and provide detailed reports on all the bugs found. I loved viewing the software from the user’s perspective, which eventually sparked my interest in Quality Assurance testing.
 
-## <h2 style="align:center; color:#c799ff"> **What I Do:** </h2>
+## <h2 style="font-variant: small-caps; align:center; color:#c799ff;">**What I Do:**</h2>
 
 ### `Data Science Expertise`
 
@@ -182,7 +184,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 ---
 
-<h2 align="center">
+<h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Languages - Tools 📚
 </h2>
 <p align="center">
@@ -193,7 +195,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 &nbsp;        
 
 
-<h2 align="center">
+<h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Technical Skills 💼
 </h2>
 <p align="center" height="60">
@@ -218,7 +220,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 
 ---
 
-<h2 align="center">
+<h2 align="center" style=font-variant:small-caps;color:#c799ff>
   GitHub Stats🚀
 </h2>
 
@@ -227,7 +229,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
-<h2 align="center">
+<h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Programming Stack 💻
 </h2>
 
@@ -236,7 +238,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
-<h2 align="center">
+<h2 align="center" style=font-variant:small-caps;color:#c799ff>
   GitHub Streak 🔥
 </h2>
 
@@ -245,7 +247,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
-<h2 align="center">
+<h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Contributions 👷🏻‍♀️
 </h2>
 
@@ -254,7 +256,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
-<h2 align="center">
+<h2 align="center" style=font-variant:small-caps;color:#c799ff>
   GitHub Trophies 🏆
 </h2>
 
