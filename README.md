@@ -1,7 +1,7 @@
 <p align="center" width="100%">
-<img src="imgs/bg.png" width="100%">
+<img src="imgs/no_bg.png" width="100%">
 <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="80%" height="300px" alt="my banner"/>
-</p>
+</p> 
 
 <p align="center"><a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;a+Data+Analyst+📉;Data+Scientist+📊;Software+QA+Tester+🐞;and+so+much+more...;&center=true&size=30&&duration=6000">
