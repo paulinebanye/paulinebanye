@@ -25,7 +25,7 @@ My journey as a Tester began with a previous role. As a Backend Developer on the
 - Apply statistical analysis to validate findings.
 - Forecast future outcomes to drive business growth.
 <p align="center" width="100%">
-<img src="imgs\ds1.jpeg" width="90%" height="250px" alt="my banner"/></p>
+<img src="imgs\ds1.jpeg" width="90%" height="250px" alt="data science process"/></p>
 
 ### `Quality Assurance Testing`
 
@@ -35,7 +35,7 @@ My journey as a Tester began with a previous role. As a Backend Developer on the
 - Identified and resolved defects with precision and accuracy.
 
 <p align="center" width="100%">
-<img src="imgs\qa2.png" width="90%" height="250px" alt="my banner"/></p>
+<img src="imgs\qa2.png" width="90%" height="250px" alt="QA process"/></p>
 
 I've learned that success in both fields requires more than technical skills. It's about asking the right questions, thinking creatively, and effectively communicating complex ideas.
 
