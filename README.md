@@ -1,175 +1,290 @@
-<p align="center" width="100%">
-<img src="imgs/no_bg.png" width="100%">
-<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="80%" height="300px" alt="my banner"/>
-</p> 
+<!-- STYLES -->
+<style>
+  .divider {
+    border: none;
+    height: 2px;
+    background-color: #c799ff;
+    margin: 20px 0 20px 0;
+    width: 100%;
+  }
 
-<p align="center"><a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;a+Data+Scientist+📊;Data+Analyst+📉;Software+QA+Tester+🐞;and+so+much+more...;&center=true&size=30&&duration=6000">
-</a></p>
+  .responsive-img {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    max-height: 400px;
+  }
+  p, li, summary {
+    font-size: 18px;
+  }
 
-<!-- #### **<div style="font-variant: small-caps; color: blue; margin: 0; padding: 0; line-height: 1; display: inline-block;vertical-align: bottom;" id="import-libraries">Import Libraries</div>**<span style="float: right;"><a href="#table-of-contents" title="Back to Table of Contents">🔼</a></span> -->
+  @media (max-width: 768px) {
+    .responsive-img {
+      max-width: 300px;
+      max-height: 300px;
+    }
+    p, li, summary {
+    font-size: 16px;
+    }
+  }
 
-## <h2 style="font-variant: small-caps; align:center; color:#c799ff;">**Who I am:**</h2>
+  @media (max-width: 480px) {
+    .responsive-img {
+      max-width: 80%;
+      max-height: 80%;
+    }
+  }
 
-Ever wondered how it feels to predict the future using data? That curiosity led me to Data Science. My journey began with an internship focused on machine learning models for drug discovery. That first experience sparked a passion that still drives me today.
+  .section {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+  }
 
-My journey as a Tester began with a previous role. As a Backend Developer on the ZuriChat project, I periodically reviewed our software to assess its functionality and provide detailed reports on all the bugs found. I loved viewing the software from the user’s perspective, which eventually sparked my interest in Quality Assurance testing.
+  .section-content {
+    flex: 1 1 300px;
+  }
 
-## <h2 style="font-variant: small-caps; align:center; color:#c799ff;">**What I Do:**</h2>
+  .section-image {
+    flex: 1 1 300px;
+    display: flex;
+    justify-content: center;
+  }
+</style>
 
-### `Data Science Expertise`
-
-- Transform complex datasets into insights.
-- Develop predictive models to guide strategic decisions.
-- Create visualizations to tell compelling data stories.
-- Apply statistical analysis to validate findings.
-- Forecast future outcomes to drive business growth.
-<p align="center" width="100%">
-<img src="imgs\ds1.jpeg" width="90%" height="250px" alt="data science process"/></p>
-
-### `Quality Assurance Testing`
-
-- Implemented comprehensive manual and automated testing strategies
-- Conducted thorough API and End-to-end (E2E) testing
-- Optimized software performance with load and stress testing.
-- Identified and resolved defects with precision and accuracy.
-
-<p align="center" width="100%">
-<img src="imgs\qa2.png" width="90%" height="250px" alt="QA process"/></p>
-
-I've learned that success in both fields requires more than technical skills. It's about asking the right questions, thinking creatively, and effectively communicating complex ideas.
-
-
-I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
-
-<details>
-  <summary>
-    <strong style="color:#c799ff">
-      Click me!
-    </strong>
-  </summary>
-  <div>
-
-  ### **`Data Projects`**
-  - <p style="color: #3498db; font-weight: bold;">
-      <strong>
-        Superstore Analysis
-      </strong>
-    </p> 
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiMjBmZmM5MTYtMGRmMi00MGIzLThjZmUtNDZlYzMxNjFmYTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
-      <img src="./imgs/superstore.PNG" alt="Superstore Analysis" height="250px" width="450px">
+<!-- HEADER SECTION -->
+<div width="80%">
+  <p align="center" width="100%">
+    <!-- NAME INFO -->
+    <img src="imgs/no_bg.png" width="100%">
+    <!-- HEADER GIF -->
+    <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="80%" height="300px" alt="my banner"/>
+    <!-- CHANING TEXT -->
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;a+Data+Scientist+📊;Data+Analyst+📉;Software+QA+Tester+🐞;and+so+much+more...;&center=true&size=30&&duration=6000">
     </a>
+  </p>
 
-    <br>
-    
-  - <p style="color: #3498db; font-weight: bold;">
-      <strong>
-        KMS Dashboard
-      </strong>
-    </p> 
-    <a href="https://public.tableau.com/views/KMSDashboard_16755914916100/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">
-      <img src="./imgs/kms.PNG" alt="KMS Dashboard" height="250px" width="450px">
-    </a>
+  <hr class="divider">
 
-    <br>
+  <!-- WHO I AM SECTION -->
+  <h2 style="font-variant: small-caps; font-weight: bold; align:center; color:#c799ff;">
+    Who I am:
+  </h2>
 
-  - <p style="color: #3498db; font-weight: bold;">
-      <strong>
-        Maji Ndojo dashboard
-      </strong>
-    </p> 
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiMDAwN2JjNzQtOTllMi00OGYyLWI5N2MtMmRkZTMwODdlZWQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
-      <img src="./imgs/maji.PNG" alt="Maji Ndojo dashboard" height="250px" width="450px">
-    </a>
-    
-    <br>
-    
-  - <p style="color: #3498db; font-weight: bold;">
-      <strong>
-        Sales Dashboard
-      </strong>
-    </p> 
-    <a href="https://public.tableau.com/views/sampledata_16755784027320/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">
-      <img src="./imgs/sales.PNG" alt="Sales Dashboard" height="250px" width="450px">
-    </a>
-    
-    <br>
-    
-  - <p style="color: #3498db; font-weight: bold;">
-      <strong>
-        Water Analysis
-      </strong>
-    </p> 
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiYWVkMmY0NmMtNzhiOS00MmVkLWJjYTgtZDIwMjhmNDc4Zjk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionc4cd59c24bc7ca7553b7">
-      <img src="./imgs/water.PNG" alt="Water Analysis" height="250px" width="450px">
-    </a>
-    
-    <br>
+  <p align="justify">
+  Ever wondered how it feels to predict the future using data? That curiosity led me to Data Science. My journey began with an internship focused on machine learning models for drug discovery. That first experience sparked a passion that still drives me today.
+  </p>
+  <p align="justify">
+  My journey as a Tester began with a previous role. As a Backend Developer on the ZuriChat project, I periodically reviewed our software to assess its functionality and provide detailed reports on all the bugs found. I loved viewing the software from the user’s perspective, which eventually sparked my interest in Quality Assurance testing.
+  </p>
 
-  ### **`Software QA Projects`**
-  - #### **`Remote Bingo Project`**
+  <hr class="divider">
 
-    The Remote Bingo project is an online platform that allows users to create and join virtual Bingo games, offering real-time participation and a user-friendly experience across devices.
-    - <p style="color: #3498db; font-weight: bold;">
-        <strong>
-          Bingo APIs report
-        </strong>
-      </p> 
-      <a href="https://bingo-apis.vercel.app/">
-        <img src="./imgs/bingo dash.PNG" alt="Bingo APIs report" height="250px" width="450px">
-      </a>
-      
-      <br>
-    
-    - <p style="color: #3498db; font-weight: bold;">
-        <strong>
-          Bingo E2E report
-        </strong>
-      </p> 
-      <a href="https://bingo-e2e-mauve.vercel.app/">
-        <img src="./imgs/bingo.PNG" alt="Bingo E2E report" height="250px" width="450px">
-      </a>
-    
-      <br>
+  <!-- WHAT I DO SECTION -->
+  <h2 style="font-variant: small-caps; align:center; color:#c799ff; font-weight:bold;">
+    What I Do:
+  </h2>
 
-    - <p style="color: #3498db; font-weight: bold;">
-        <strong>
-          Bingo API tests
-        </strong>
-      </p> 
-      <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-20e0ed31-614e-4397-888c-45872bb66344?action=share&creator=37678338">
-        <img src="./imgs/bingo api tests.PNG" alt="Bingo API tests" height="250px" width="450px">
-      </a>
-      
-      <br>   
-
-  - #### **`HNG Boilerplate Project`**
-
-    The HNG Boilerplate is a pre-configured starter template that helps developers quickly set up scalable web applications with essential tools for testing, linting, and deployment.
-    
-    - <p style="color: #3498db; font-weight: bold;">
-        <strong>
-          Boilerplate Regression Report
-        </strong>
-      </p> 
-      <a href="https://regression.vercel.app/">
-        <img src="./imgs/boilerplate.PNG" alt="Boilerplate Regression Report" height="250px" width="450px">
-      </a>
-
-      <br>
-    
-    - <p style="color: #3498db; font-weight: bold;">
-        <strong>
-          Boilerplate API tests
-        </strong>
-      </p> 
-      <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-e9812dfa-ce5a-4cc5-929e-f4f14664c1a1?action=share&creator=37678338&active-environment=37678338-e726f286-5826-4324-b171-b082779c5e43">
-        <img src="./imgs/boilerplate api tests.PNG" alt="Boilerplate API tests" height="250px" width="450px">
-      </a>    
+  <!-- DATA SCIENCE SECTION -->
+  ### `Data Science Expertise`
+  <div class="section">
+    <div class="section-image">
+      <img max-width="10%" width="600" height="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" class="responsive-img" alt="Data Science GIF">
+    </div>
+    <div class="section-content">
+      <ul>
+        <li>Transform complex datasets into insights.</li>
+        <li>Develop predictive models to guide strategic decisions.</li>
+        <li>Create visualizations to tell compelling data stories.</li>
+        <li>Apply statistical analysis to validate findings.</li>
+        <li>Forecast future outcomes to drive business growth.</li>
+      </ul>
+    </div>
   </div>
-</details>
 
-&nbsp;&nbsp;
+  ---
+
+  <!-- QA SECTION -->
+  ### `Quality Assurance Testing`
+  <div class="section">
+    <div class="section-content">
+      <ul>
+        <li>Implement comprehensive manual and automated testing strategies.</li>
+        <li>Conduct thorough API and End-to-end (E2E) testing.</li>
+        <li>Create visualizations to tell compelling data stories.</li>
+        <li>Optimize software performance with load and stress testing.</li>
+        <li>Identify and resolve defects with precision and accuracy.</li>
+      </ul>
+    </div>
+    <div class="section-image">
+      <img max-width="10%" width="600" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" class="responsive-img" alt="QA process">
+    </div>
+  </div>
+  
+  ---
+  
+  <p align="justify">
+    I've learned that success in both fields requires more than technical skills. It's about asking the right questions, thinking creatively, and effectively communicating complex ideas.
+  </p>
+  <p align="justify">
+    I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
+  </p>
+
+<!-- PROJECTS SECTION (HIDDEN) -->
+  <!-- DROPDOWN -->
+  <details>
+    <summary>
+      <strong style="color:#c799ff">
+        Click me!
+      </strong>
+    </summary>
+
+---
+
+  <!-- DATA PROJECTS -->
+  ### **`Data Projects`** 
+  <div>
+    <ul>
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
+          <a href="https://github.com/paulinebanye/bengaluru_prediction"> 
+            <strong>
+              Bengaluru House Price Prediction
+            </strong>
+          </a>
+          <p align="justify">
+            The Bengaluru House Price Prediction project uses machine learning to predict house prices in Bengaluru, India. It analyzes various features such as location, size, and amenities to provide accurate price estimates for potential buyers and sellers.
+            <img src="./imgs/united_highlands.jpeg" alt="Bengaluru House Prediction" height="250px" width="450px">
+          </p>
+        </p> 
+      </li>
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
+          <a href="https://app.powerbi.com/view?r=eyJrIjoiMjBmZmM5MTYtMGRmMi00MGIzLThjZmUtNDZlYzMxNjFmYTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">  
+            <strong>
+              Superstore Analysis
+            </strong>
+          </a>
+          <p align="justify">
+            The Superstore Analysis project studies retail data from a store to identify trends in sales, profits, and customer behavior. It provides insights that can improve inventory management, marketing strategies, and regional performance.
+          </p>
+          <img src="./imgs/superstore.PNG" alt="Superstore Analysis" height="250px" width="450px">
+        </p>
+      </li>
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
+          <strong>
+            Maji Ndojo Water Analysis
+          </strong>
+          <p align="justify">
+          This project is a data analysis of the Maji Ndojo dataset, which contains information about water quality and availability in various regions. The analysis provides insights into the water quality and availability in the rural and urban regions, and identifies areas where people struggle to get clean water. The goal is to use the information to help improve water access in small or rural communities.
+          </p>
+          <ul>
+            <li>
+              <p style="font-weight: bold">
+                <a href="https://app.powerbi.com/view?r=eyJrIjoiMDAwN2JjNzQtOTllMi00OGYyLWI5N2MtMmRkZTMwODdlZWQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
+                  <i>
+                    Initial Analysis (Pre improvements)
+                  </i>
+                </a>
+                <img src="./imgs/maji.PNG" alt="Maji Ndojo initial" height="250px" width="450px">
+              </p>
+            </li>
+            <li>
+              <p style="font-weight: bold;">
+                <a href="https://app.powerbi.com/view?r=eyJrIjoiYWVkMmY0NmMtNzhiOS00MmVkLWJjYTgtZDIwMjhmNDc4Zjk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionc4cd59c24bc7ca7553b7">
+                  <i>
+                    Final Analysis (Post Improvements)
+                  </i>
+                </a>
+               <img src="./imgs/water.PNG"  alt="Maji Ndojo final" height="250px" width="450px">
+              </p>
+            </li>
+          </ul>
+        </p>
+      </li>
+    </ul>
+  </div>
+
+---
+
+  <!-- QA PROJECTS -->
+  ### **`Software QA Projects`**
+  <div>
+    <ul>
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
+          <strong>
+            Remote Bingo Project
+          </strong>
+        </p>
+        <p align="justify">
+          Remote Bingo is an online platform that allows users to create and join virtual Bingo games, offering real-time participation and a user-friendly experience across devices.
+        </p>
+        <ul>
+          <li>
+            <p style="font-weight: bold">
+              <a href="https://bingo-apis.vercel.app/">
+                <i>
+                  Bingo E2E report
+                </i>
+              </a>
+              <img src="./imgs/bingo dash.PNG" alt="Bingo APIs report" height="250px" width="450px">
+            </p>
+          </li>
+          <li>
+            <p style="font-weight: bold">
+              <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-20e0ed31-614e-4397-888c-45872bb66344?action=share&creator=37678338">
+                <i>
+                  Bingo API tests
+                </i>
+              </a>
+              <img src="./imgs/bingo api tests.PNG" alt="Bingo API tests" height="250px" width="450px">
+            </p>
+          </li>
+        </ul>
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
+          <strong>
+            HNG Boilerplate Project
+          </strong>
+        </p>
+        <p align="justify">
+          HNG Boilerplate is a pre-configured starter template that helps developers quickly set up scalable web applications with essential tools for testing, linting, and deployment.
+        </p>
+        <ul>
+          <li>
+            <p style="font-weight: bold">
+              <a href="https://regression.vercel.app/">
+                <i>
+                  Boilerplate Regression Report
+                </i>
+              </a>
+              <img src="./imgs/boilerplate.PNG" alt="Boilerplate Regression Report" height="250px" width="450px">
+            </p>
+          </li>
+          <li>
+            <p style="font-weight: bold">
+              <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-e9812dfa-ce5a-4cc5-929e-f4f14664c1a1?action=share&creator=37678338&active-environment=37678338-e726f286-5826-4324-b171-b082779c5e43">
+                <i>
+                  Boilerplate API tests
+                </i>
+              </a>
+              <img src="./imgs/boilerplate api tests.PNG" alt="Boilerplate API tests" height="250px" width="450px">
+            </p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  </details>
+
+---
+<!-- FOLLOWERS -->
 <p align="center">
   <a href="https://github.com/paulinebanye?tab=followers">
     <img src="https://img.shields.io/github/followers/paulinebanye?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
@@ -182,8 +297,10 @@ I'm a creative team player and results-oriented leader with a track record of ef
   </a>
 </p>
 
----
+<hr class="divider">
 
+<!-- LANGUAGES & SKILLS SECTION -->
+<!-- LANGUAGE/TOOLS -->
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Languages - Tools 📚
 </h2>
@@ -194,32 +311,33 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </p>
 &nbsp;        
 
-
+<!-- TECHNICAL SKILLS SECTION -->
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Technical Skills 💼
 </h2>
-<p align="center" height="60">
-  <img height="20" src="https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logocolor=181717&color=black" alt="appium-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logocolor=0077B5&color=black" alt="python-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logocolor=181717&color=black" alt="tableau-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logocolor=00C7B7&color=black" alt="cypress-logo"/>  
-  <img height="20" src="https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&color=black" alt="solidity-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logocolor=F05032&color=black" alt="git-logo"/>
-  <img height="20" src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logocolor=336791&color=black" alt="postgresql-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Colab-informational?style=flat&logo=GoogleColab&logocolor=181717&color=black" alt="colab-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Anaconda-informational?style=flat&logo=Anaconda&logocolor=181717&color=black" alt="anaconda-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=black" alt="django-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logocolor=181717&color=black" alt="jupyter-logo"/>
-  <img height="20" src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&color=black" alt="fastapi-logo"/>
-  <img height="20" src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&color=black" alt="javascript-logo"/>
-  <img height="20" src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logocolor=red&color=black" alt="HTML5-logo"/>
-  <img height="20" src="https://img.shields.io/badge/mongodb-informational?style=flat&logo=MongoDB&logocolor=mongodb&color=black" alt="mongodb-logo"/>
-  <img height="20" src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logocolor=181717&color=black" alt="github-logo"/>
+<p align="center" height="200">
+  <img height="25" src="https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logocolor=181717&color=black" alt="appium-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logocolor=0077B5&color=black" alt="python-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logocolor=181717&color=black" alt="tableau-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logocolor=00C7B7&color=black" alt="cypress-logo"/>  
+  <img height="25" src="https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&color=black" alt="solidity-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logocolor=F05032&color=black" alt="git-logo"/>
+  <img height="25" src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logocolor=336791&color=black" alt="postgresql-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Colab-informational?style=flat&logo=GoogleColab&logocolor=181717&color=black" alt="colab-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Anaconda-informational?style=flat&logo=Anaconda&logocolor=181717&color=black" alt="anaconda-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=black" alt="django-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logocolor=181717&color=black" alt="jupyter-logo"/>
+  <img height="25" src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&color=black" alt="fastapi-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&color=black" alt="javascript-logo"/>
+  <img height="25" src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logocolor=red&color=black" alt="HTML5-logo"/>
+  <img height="25" src="https://img.shields.io/badge/mongodb-informational?style=flat&logo=MongoDB&logocolor=mongodb&color=black" alt="mongodb-logo"/>
+  <img height="25" src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logocolor=181717&color=black" alt="github-logo"/>
 </p>
 &nbsp;
 
----
+<hr class="divider">
 
+<!-- GITHUB STATS SECTION -->
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
   GitHub Stats🚀
 </h2>
@@ -229,6 +347,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
+<!-- PROGRAMMING STACK SECTION -->
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Programming Stack 💻
 </h2>
@@ -238,8 +357,9 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
+<!-- STREAK SECTION -->
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
-  GitHub Streak 🔥
+  Streak 🔥
 </h2>
 
 <div align="center">
@@ -247,6 +367,7 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
+<!-- CONTRIBUTION SECTION -->
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Contributions 👷🏻‍♀️
 </h2>
@@ -256,8 +377,9 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
+<!-- TROPHIES SECTION -->
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
-  GitHub Trophies 🏆
+  Trophies 🏆
 </h2>
 
 <div align="center">
@@ -265,12 +387,13 @@ I'm a creative team player and results-oriented leader with a track record of ef
 </div>
 &nbsp;
 
----    
-<p>
-  If you want to hire me or just chat, reach out!
-</p>
+<hr class="divider">
 
+<!-- CTA SECTION -->
 <div style="background-color: light-grey">
+  <p align="center">
+    If you want to hire me or just chat, reach out!
+  </p>
   <p align="center">
     <a href="https://github.com/paulinebanye">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);">
@@ -282,4 +405,5 @@ I'm a creative team player and results-oriented leader with a track record of ef
       <img alt="Twitter" title="Twitter" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@13.11.0/icons/x.svg" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(360deg) brightness(100%) contrast(100%);">
     </a>
   </p>
+</div>
 </div>
