@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <div width="80%">
-  <div>
-    <p style="font-size: 1.2em" align="center" width="100%">
+  <div style="font-size: 1.2em;">
+    <p align="center" width="100%">
       <!-- NAME INFO -->
       <img src="imgs/no_bg.png" width="100%">
       <!-- HEADER GIF -->
@@ -20,12 +20,14 @@
     Who I am:
   </h2>
 
-  <p style="font-size: 1.2em" align="justify">
-  Ever wondered how it feels to predict the future using data? That curiosity led me to Data Science. My journey began with an internship focused on machine learning models for drug discovery. That first experience sparked a passion that still drives me today.
-  </p>
-  <p style="font-size: 1.2em" align="justify">
-  My journey as a Tester began with a previous role. As a Backend Developer on the ZuriChat project, I periodically reviewed our software to assess its functionality and provide detailed reports on all the bugs found. I loved viewing the software from the user’s perspective, which eventually sparked my interest in Quality Assurance testing.
-  </p>
+  <div style="font-size: 1.2em;">
+    <p align="justify">
+      Ever wondered how it feels to predict the future using data? That curiosity led me to Data Science. My journey began with an internship focused on machine learning models for drug discovery. That first experience sparked a passion that still drives me today.
+    </p>
+    <p align="justify">
+      My journey as a Tester began with a previous role. As a Backend Developer on the ZuriChat project, I periodically reviewed our software to assess its functionality and provide detailed reports on all the bugs found. I loved viewing the software from the user’s perspective, which eventually sparked my interest in Quality Assurance testing.
+    </p>
+  </div>
 
   <hr style="border: none; height: 2px; background-color: #c799ff; margin: 20px 0 20px 0; width: 100%;">
 
@@ -34,105 +36,130 @@
     What I Do:
   </h2>
 
+
   <!-- DATA SCIENCE SECTION -->
   ### `Data Science Expertise`
-  <div style="display: flex; flex-direction: row; gap: 20px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-    <div style="flex: 1 1 300px;display: flex; justify-content: center;">
-      <img max-width="10%" width="600" height="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" style="width: 100%;
-    height: auto; max-width: 400px; max-height: 400px;" alt="Data Science GIF">
-    </div>
-    <div style="flex: 1 1 300px;">
-      <ul>
-        <li  style="font-size: 1.2em">Transform complex datasets into insights.</li>
-        <li  style="font-size: 1.2em">Develop predictive models to guide strategic decisions.</li>
-        <li  style="font-size: 1.2em">Create visualizations to tell compelling data stories.</li>
-        <li  style="font-size: 1.2em">Apply statistical analysis to validate findings.</li>
-        <li  style="font-size: 1.2em">Forecast future outcomes to drive business growth.</li>
-      </ul>
-    </div>
-  </div>
+
+  <table style="font-size: 1.2em;">
+    <tr>
+      <td width="50%">
+        <img style="width: 100%; height: auto; max-width: 400px; max-height: 300px;" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF">
+      </td>
+      <td width="50%">
+        <ul>
+          <li>
+            Transform complex datasets into insights.
+          </li>
+          <li>
+            Develop predictive models to guide strategic decisions.
+          </li>
+          <li>
+            Create visualizations to tell compelling data stories.
+          </li>
+          <li>
+            Apply statistical analysis to validate findings.
+          </li>
+          <li>
+            Forecast future outcomes to drive business growth.
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
   ---
 
   <!-- QA SECTION -->
   ### `Quality Assurance Testing`
-  <div style="display: flex; flex-direction: row; gap: 20px; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-    <div style="flex: 1 1 300px;">
-      <ul>
-        <li  style="font-size: 1.2em">Implement comprehensive manual and automated testing strategies.</li>
-        <li  style="font-size: 1.2em">Conduct thorough API and End-to-end (E2E) testing.</li>
-        <li  style="font-size: 1.2em">Create visualizations to tell compelling data stories.</li>
-        <li  style="font-size: 1.2em">Optimize software performance with load and stress testing.</li>
-        <li  style="font-size: 1.2em">Identify and resolve defects with precision and accuracy.</li>
+
+  <table style="font-size: 1.2em;">
+    <tr>
+      <td width="50%">
+        <ul>
+          <li>
+            Implement comprehensive manual and automated testing strategies.
+          </li>
+          <li>
+            Conduct thorough API and End-to-end (E2E) testing.
+          </li>
+          <li>
+            Create visualizations to tell compelling data stories.
+          </li>
+          <li>
+            Optimize software performance with load and stress testing.
+          </li>
+          <li>
+            Identify and resolve defects with precision and accuracy.
+          </li>
       </ul>
-    </div>
-    <div style="flex: 1 1 300px;display: flex; justify-content: center;">
-      <img max-width="10%" width="600" height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" style="width: 100%;
-    height: auto; max-width: 400px; max-height: 400px;" alt="QA process">
-    </div>
-  </div>
+      </td>
+      <td width="50%">
+        <img style="width: 100%; height: auto; max-width: 400px; max-height: 400px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="QA process">
+      </td>
+    </tr>
+  </table>
   
   ---
-  
-  <p style="font-size: 1.2em" align="justify">
-    I've learned that success in both fields requires more than technical skills. It's about asking the right questions, thinking creatively, and effectively communicating complex ideas.
-  </p>
-  <p style="font-size: 1.2em" align="justify">
-    I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
-  </p>
+  <div style="font-size: 1.2em;">
+    <p align="justify">
+      I've learned that success in both fields requires more than technical skills. It's about asking the right questions, thinking creatively, and effectively communicating complex ideas.
+    </p>
+    <p align="justify">
+      I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
+    </p>
+  </div>
 
 <!-- PROJECTS SECTION (HIDDEN) -->
   <!-- DROPDOWN -->
   <details>
-    <summary>
-      <strong style="color:#c799ff">
+    <summary style="font-size: 1.2em; color:#c799ff;">
+      <strong>
         Click me!
       </strong>
     </summary>
 
----
-
+    ---
   <!-- DATA PROJECTS -->
   ### **`Data Projects`** 
-  <div>
+  <div style="font-size: 1.2em;">
     <ul>
-      <li  style="font-size: 1.2em">
-        <p style="font-size: 1.2em; color: #3498db; font-weight: bold;">
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
           <a href="https://github.com/paulinebanye/bengaluru_prediction"> 
             <strong>
               Bengaluru House Price Prediction
             </strong>
           </a>
-          <p style="font-size: 1.2em" align="justify">
+          <p align="justify">
             The Bengaluru House Price Prediction project uses machine learning to predict house prices in Bengaluru, India. It analyzes various features such as location, size, and amenities to provide accurate price estimates for potential buyers and sellers.
             <img src="./imgs/united_highlands.jpeg" alt="Bengaluru House Prediction" height="250px" width="450px">
           </p>
         </p> 
       </li>
-      <li  style="font-size: 1.2em">
-        <p style="font-size: 1.2em; color: #3498db; font-weight: bold;">
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
           <a href="https://app.powerbi.com/view?r=eyJrIjoiMjBmZmM5MTYtMGRmMi00MGIzLThjZmUtNDZlYzMxNjFmYTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">  
             <strong>
               Superstore Analysis
             </strong>
           </a>
-          <p style="font-size: 1.2em" align="justify">
+          <p align="justify">
             The Superstore Analysis project studies retail data from a store to identify trends in sales, profits, and customer behavior. It provides insights that can improve inventory management, marketing strategies, and regional performance.
           </p>
           <img src="./imgs/superstore.PNG" alt="Superstore Analysis" height="250px" width="450px">
         </p>
       </li>
-      <li  style="font-size: 1.2em">
-        <p style="font-size: 1.2em; color: #3498db; font-weight: bold;">
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
           <strong>
             Maji Ndojo Water Analysis
           </strong>
-          <p style="font-size: 1.2em" align="justify">
+          <p align="justify">
           This project is a data analysis of the Maji Ndojo dataset, which contains information about water quality and availability in various regions. The analysis provides insights into the water quality and availability in the rural and urban regions, and identifies areas where people struggle to get clean water. The goal is to use the information to help improve water access in small or rural communities.
           </p>
           <ul>
-            <li  style="font-size: 1.2em">
-              <p style="font-size: 1.2em; font-weight: bold">
+            <li>
+              <p style="font-weight: bold">
                 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDAwN2JjNzQtOTllMi00OGYyLWI5N2MtMmRkZTMwODdlZWQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">
                   <i>
                     Initial Analysis (Pre improvements)
@@ -141,8 +168,8 @@
                 <img src="./imgs/maji.PNG" alt="Maji Ndojo initial" height="250px" width="450px">
               </p>
             </li>
-            <li  style="font-size: 1.2em">
-              <p style="font-size: 1.2em; font-weight: bold;">
+            <li>
+              <p style="font-weight: bold;">
                 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWVkMmY0NmMtNzhiOS00MmVkLWJjYTgtZDIwMjhmNDc4Zjk5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionc4cd59c24bc7ca7553b7">
                   <i>
                     Final Analysis (Post Improvements)
@@ -161,68 +188,70 @@
 
   <!-- QA PROJECTS -->
   ### **`Software QA Projects`**
-  <div>
+
+  <div style="font-size: 1.2em;">
     <ul>
-      <li  style="font-size: 1.2em">
-        <p style="font-size: 1.2em; color: #3498db; font-weight: bold;">
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
           <strong>
             Remote Bingo Project
           </strong>
         </p>
-        <p style="font-size: 1.2em;" align="justify">
+        <p align="justify">
           Remote Bingo is an online platform that allows users to create and join virtual Bingo games, offering real-time participation and a user-friendly experience across devices.
         </p>
         <ul>
-          <li  style="font-size: 1.2em">
-            <p style="font-size: 1.2em; font-weight: bold">
+          <li>
+            <p style="font-weight: bold">
               <a href="https://bingo-apis.vercel.app/">
                 <i>
                   Bingo E2E report
                 </i>
               </a>
-              <img src="./imgs/bingo dash.PNG" alt="Bingo APIs report" height="250px" width="450px">
-            </p>
+            </p>  
+            <img src="./imgs/bingo dash.PNG" alt="Bingo APIs report" height="250px" width="450px">
           </li>
-          <li  style="font-size: 1.2em">
-            <p style="font-size: 1.2em; font-weight: bold">
+          <li>
+            <p style="font-weight: bold;">
               <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-20e0ed31-614e-4397-888c-45872bb66344?action=share&creator=37678338">
                 <i>
                   Bingo API tests
                 </i>
               </a>
-              <img src="./imgs/bingo api tests.PNG" alt="Bingo API tests" height="250px" width="450px">
             </p>
+              <img src="./imgs/bingo api tests.PNG" alt="Bingo API tests" height="250px" width="450px">
           </li>
         </ul>
-      <li  style="font-size: 1.2em">
-        <p style="font-size: 1.2em; color: #3498db; font-weight: bold;">
+      </li>
+      <li>
+        <p style="color: #3498db; font-weight: bold;">
           <strong>
             HNG Boilerplate Project
           </strong>
         </p>
-        <p style="font-size: 1.2em;" align="justify">
+        <p align="justify">
           HNG Boilerplate is a pre-configured starter template that helps developers quickly set up scalable web applications with essential tools for testing, linting, and deployment.
         </p>
         <ul>
-          <li  style="font-size: 1.2em">
-            <p style="font-size: 1.2em; font-weight: bold">
+          <li>
+            <p style="font-weight: bold">
               <a href="https://regression.vercel.app/">
                 <i>
                   Boilerplate Regression Report
                 </i>
               </a>
-              <img src="./imgs/boilerplate.PNG" alt="Boilerplate Regression Report" height="250px" width="450px">
             </p>
+            <img src="./imgs/boilerplate.PNG" alt="Boilerplate Regression Report" height="250px" width="450px">
           </li>
-          <li  style="font-size: 1.2em">
-            <p style="font-size: 1.2em; font-weight: bold">
+          <li>
+            <p style="font-weight: bold">
               <a href="https://team-starlight.postman.co/workspace/Starlight-testers~21890025-14f0-4d7c-8507-71258262a7ab/collection/37678338-e9812dfa-ce5a-4cc5-929e-f4f14664c1a1?action=share&creator=37678338&active-environment=37678338-e726f286-5826-4324-b171-b082779c5e43">
                 <i>
                   Boilerplate API tests
                 </i>
               </a>
-              <img src="./imgs/boilerplate api tests.PNG" alt="Boilerplate API tests" height="250px" width="450px">
             </p>
+            <img src="./imgs/boilerplate api tests.PNG" alt="Boilerplate API tests" height="250px" width="450px">  
           </li>
         </ul>
       </li>
