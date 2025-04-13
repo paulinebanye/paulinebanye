@@ -40,7 +40,7 @@
   <!-- DATA SCIENCE SECTION -->
   ### `Data Science Expertise`
 
-  <table style="font-size: 1.2em;">
+  <table style="font-size: 1.2em; background-color: white;">
     <tr>
       <td width="50%">
         <img style="width: 100%; height: auto; max-width: 400px; max-height: 300px;" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF">
@@ -72,7 +72,7 @@
   <!-- QA SECTION -->
   ### `Quality Assurance Testing`
 
-  <table style="font-size: 1.2em;">
+  <table style="font-size: 1.2em; background-color: white;">
     <tr>
       <td width="50%">
         <ul>
@@ -121,6 +121,9 @@
     ---
   <!-- DATA PROJECTS -->
   ### **`Data Projects`** 
+
+  <!-- ### **`$\textcolor{red}{\textsf{Data Projects}}$`** -->
+
   <div style="font-size: 1.2em;">
     <ul>
       <li>
