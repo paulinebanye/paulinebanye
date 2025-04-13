@@ -40,25 +40,29 @@
   <!-- DATA SCIENCE SECTION -->
   ### `Data Science Expertise`
 
-  <table style="font-size: 1.2em;"> 
+  <table style="font-size: 1.2em; border: none;"> 
     <tr>
-      <td style="border: none;">
-        <table style="border: none;">
-          <tr>
-            <td style="border: none; vertical-align: top;">
-              <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="300" alt="Data Science GIF" />
-            </td>
-            <td style="border: none; vertical-align: top; padding-left: 20px;">
-              <ul>
-                <li>Transform complex datasets into insights.</li>
-                <li>Develop predictive models to guide strategic decisions.</li>
-                <li>Create visualizations to tell compelling data stories.</li>
-                <li>Apply statistical analysis to validate findings.</li>
-                <li>Forecast future outcomes to drive business growth.</li>
-              </ul>
-            </td>
-          </tr>
-        </table>
+      <td width="50%">
+        <img style="width: 100%; height: auto; max-width: 400px; max-height: 300px;" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF">
+      </td>
+      <td width="50%">
+        <ul>
+          <li>
+            Transform complex datasets into insights.
+          </li>
+          <li>
+            Develop predictive models to guide strategic decisions.
+          </li>
+          <li>
+            Create visualizations to tell compelling data stories.
+          </li>
+          <li>
+            Apply statistical analysis to validate findings.
+          </li>
+          <li>
+            Forecast future outcomes to drive business growth.
+          </li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -68,7 +72,7 @@
   <!-- QA SECTION -->
   ### `Quality Assurance Testing`
 
-  <table style="font-size: 1.2em;">
+  <table style="font-size: 1.2em; border: none;">
     <tr>
       <td width="50%">
         <ul>
