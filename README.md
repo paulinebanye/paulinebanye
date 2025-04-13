@@ -41,7 +41,7 @@
   ### `Data Science Expertise`
 
   <table style="font-size: 1.2em; border: none;"> 
-    <tr>
+    <tr style="border: none;">
       <td width="50%">
         <img style="width: 100%; height: auto; max-width: 400px; max-height: 300px;" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF">
       </td>
@@ -72,8 +72,8 @@
   <!-- QA SECTION -->
   ### `Quality Assurance Testing`
 
-  <table style="font-size: 1.2em; border: none;">
-    <tr>
+  <table style="font-size: 1.2em; border: none;"> 
+    <tr style="border: none;">
       <td width="50%">
         <ul>
           <li>
