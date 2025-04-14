@@ -42,10 +42,10 @@
 
   <table style="font-size: 1.2em; border: none;"> 
     <tr style="border: none;">
-      <td width="50%">
+      <td style="border: none; width: 50%;">
         <img style="width: 100%; height: auto; max-width: 400px; max-height: 300px;" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF">
       </td>
-      <td width="50%">
+      <td style="border: none; width: 50%;">
         <ul>
           <li>
             Transform complex datasets into insights.
@@ -74,7 +74,7 @@
 
   <table style="font-size: 1.2em; border: none;"> 
     <tr style="border: none;">
-      <td width="50%">
+      <td style="border: none; width: 50%;">
         <ul>
           <li>
             Implement comprehensive manual and automated testing strategies.
@@ -93,7 +93,7 @@
           </li>
       </ul>
       </td>
-      <td width="50%">
+      <td style="border: none; width: 50%;">
         <img style="width: 100%; height: auto; max-width: 400px; max-height: 400px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="QA process">
       </td>
     </tr>
@@ -135,8 +135,8 @@
           </a>
           <p align="justify">
             The Bengaluru House Price Prediction project uses machine learning to predict house prices in Bengaluru, India. It analyzes various features such as location, size, and amenities to provide accurate price estimates for potential buyers and sellers.
-            <img src="./imgs/united_highlands.jpeg" alt="Bengaluru House Prediction" height="250px" width="450px">
           </p>
+          <img src="./imgs/united_highlands.jpeg" alt="Bengaluru House Prediction" height="250px" width="450px">
         </p> 
       </li>
       <li>
@@ -158,7 +158,7 @@
             Maji Ndojo Water Analysis
           </strong>
           <p align="justify">
-          This project is a data analysis of the Maji Ndojo dataset, which contains information about water quality and availability in various regions. The analysis provides insights into the water quality and availability in the rural and urban regions, and identifies areas where people struggle to get clean water. The goal is to use the information to help improve water access in small or rural communities.
+          This project is an analysis of the Maji Ndojo dataset, which contains information about water quality and availability in various regions. The analysis provides insights into the water quality and availability in the rural and urban regions, and identifies areas where people struggle to get clean water. The goal is to use the information to help improve water access in these communities.
           </p>
           <ul>
             <li>
@@ -168,8 +168,8 @@
                     Initial Analysis (Pre improvements)
                   </i>
                 </a>
-                <img src="./imgs/maji.PNG" alt="Maji Ndojo initial" height="250px" width="450px">
               </p>
+              <img src="./imgs/maji.PNG" alt="Maji Ndojo initial" height="250px" width="450px">
             </li>
             <li>
               <p style="font-weight: bold;">
@@ -178,8 +178,8 @@
                     Final Analysis (Post Improvements)
                   </i>
                 </a>
-               <img src="./imgs/water.PNG"  alt="Maji Ndojo final" height="250px" width="450px">
               </p>
+              <img src="./imgs/water.PNG"  alt="Maji Ndojo final" height="250px" width="450px">
             </li>
           </ul>
         </p>
@@ -268,9 +268,9 @@
   <a href="https://github.com/paulinebanye?tab=followers">
     <img src="https://img.shields.io/github/followers/paulinebanye?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://www.linkedin.com/in/paulinebanye/">
+  <!-- <a href="https://www.linkedin.com/in/paulinebanye/">
   <img src="https://img.shields.io/badge/connections-500%2B-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
-  </a>
+  </a> -->
   <a href="https://www.twitter.com/paulinebanye?tab=followers">
   <img src="https://img.shields.io/badge/followers-1000%2B-blue?style=for-the-badge&logo=x" alt="LinkedIn badge" />
   </a>
