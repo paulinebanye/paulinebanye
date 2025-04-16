@@ -44,7 +44,7 @@
   <table style="font-size: 1.2em; border: none;"> 
     <tr style="border: none;">
       <td style="border: none; width: 50%;">
-        <img style="width: 100%; height: 60%; max-width: 400px; max-height: 300px;" src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1" alt="Data Science GIF">
+        <img style="width: 100%; height: 40%; max-width: 300px; max-height: 200px;" src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1" alt="Data Science GIF">
       </td>
       <td style="border: none; width: 50%;">
         <ul>
@@ -279,7 +279,7 @@
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Languages - Tools 📚
 </h2>
-<p style="font-size: 1.2em;text-align:center;line-height:3">
+<p style="font-size: 1.2em;line-height:3" align="center">
   <img src="https://skillicons.dev/icons?i=javascript,anaconda,python,git,github,vscode,postman,mysql,postgresql" height="45" style="vertical-align:middle;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" style="vertical-align:middle;"/>
   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="Tableau" width="45" height="45" style="vertical-align:middle;"/>
@@ -325,7 +325,7 @@
 </h2>
 
 <div align="center">
-  <img width="80%" style=height:250; src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages"/>
+  <img width="80%" style=height:200; src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages"/>
 </div>
 &nbsp;
 
@@ -357,7 +357,7 @@
 </h2>
 
 <p align="center">
-  <img width="80%" align="center" src="https://github-profile-trophy.vercel.app/?username=paulinebanye&theme=radical&column=5&title_size=10&width=10&height=10&margin-w=2&margin-h=2&no-frame=true&no-bg=true&row=2" alt="my trophies"/>
+  <img width="80%" align="center" src="https://github-profile-trophy.vercel.app/?username=paulinebanye&theme=radical&title_size=10&width=10&height=10&margin-w=2&margin-h=2&no-bg=true&row=2" alt="my trophies"/>
 </p>
 &nbsp;
 
