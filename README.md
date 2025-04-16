@@ -6,9 +6,9 @@
       <img src="imgs/no_bg.png" width="100%">
       <!-- HEADER GIF -->
       <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="80%" height="300px" alt="my banner"/>
-      <!-- CHANING TEXT -->
+      <!-- CHANGING TEXT -->
       <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;a+Data+Scientist+📊;Data+Analyst+📉;Software+QA+Tester+🐞;and+so+much+more...;&center=true&size=30&&duration=6000">
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋🏻!+I'm+Pauline;Data+Scientist;Data+Analyst;Software+QA+Tester;&center=true&size=30&&duration=4000">
       </a>
     </p>
   </div>
@@ -17,6 +17,7 @@
 
   <!-- WHO I AM SECTION -->
   <h2 style="font-variant: small-caps; font-weight: bold; align:center; color:#c799ff;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/> 
     Who I am:
   </h2>
 
@@ -43,7 +44,7 @@
   <table style="font-size: 1.2em; border: none;"> 
     <tr style="border: none;">
       <td style="border: none; width: 50%;">
-        <img style="width: 100%; height: auto; max-width: 400px; max-height: 300px;" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Science GIF">
+        <img style="width: 100%; height: 60%; max-width: 400px; max-height: 300px;" src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1" alt="Data Science GIF">
       </td>
       <td style="border: none; width: 50%;">
         <ul>
@@ -51,7 +52,7 @@
             Transform complex datasets into insights.
           </li>
           <li>
-            Develop predictive models to guide strategic decisions.
+            Use Machine Learning algorithms to develop predictive models.
           </li>
           <li>
             Create visualizations to tell compelling data stories.
@@ -77,24 +78,24 @@
       <td style="border: none; width: 50%;">
         <ul>
           <li>
-            Implement comprehensive manual and automated testing strategies.
+            Implement comprehensive manual and automated tests.
           </li>
           <li>
             Conduct thorough API and End-to-end (E2E) testing.
           </li>
           <li>
-            Create visualizations to tell compelling data stories.
+            Integrate Postman test scripts into CI/CD pipelines for automated API status monitoring.
           </li>
           <li>
             Optimize software performance with load and stress testing.
           </li>
           <li>
-            Identify and resolve defects with precision and accuracy.
+            Identify and report software usability and accessibility issues.
           </li>
       </ul>
       </td>
       <td style="border: none; width: 50%;">
-        <img style="width: 100%; height: auto; max-width: 400px; max-height: 400px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="QA process">
+        <img style="width: 100%; height: 110%; max-width: 400px; max-height: 400px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="QA process">
       </td>
     </tr>
   </table>
@@ -121,8 +122,6 @@
     ---
   <!-- DATA PROJECTS -->
   ### **`Data Projects`** 
-
-  <!-- ### **`$\textcolor{red}{\textsf{Data Projects}}$`** -->
 
   <div style="font-size: 1.2em;">
     <ul>
@@ -268,9 +267,6 @@
   <a href="https://github.com/paulinebanye?tab=followers">
     <img src="https://img.shields.io/github/followers/paulinebanye?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/paulinebanye/">
-  <img src="https://img.shields.io/badge/connections-500%2B-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
-  </a> -->
   <a href="https://www.twitter.com/paulinebanye?tab=followers">
   <img src="https://img.shields.io/badge/followers-1000%2B-blue?style=for-the-badge&logo=x" alt="LinkedIn badge" />
   </a>
@@ -283,10 +279,12 @@
 <h2 align="center" style=font-variant:small-caps;color:#c799ff>
   Languages - Tools 📚
 </h2>
-<p style="font-size: 1.2em;" align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,python,html,css,javascript,mysql,postman,anaconda,postgresql" />
-  </a>
+<p style="font-size: 1.2em;text-align:center;line-height:3">
+  <img src="https://skillicons.dev/icons?i=javascript,anaconda,python,git,github,vscode,postman,mysql,postgresql" height="45" style="vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" style="vertical-align:middle;"/>
+  <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="Tableau" width="45" height="45" style="vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="35" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40" style="vertical-align:middle;"/>
 </p>
 &nbsp;        
 
@@ -295,24 +293,19 @@
   Technical Skills 💼
 </h2>
 <p style="font-size: 1.2em;" align="center" height="200">
-  <img height="25" src="https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logocolor=181717&color=black" alt="appium-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logocolor=0077B5&color=black" alt="python-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logocolor=181717&color=black" alt="tableau-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logocolor=00C7B7&color=black" alt="cypress-logo"/>  
-  <img height="25" src="https://img.shields.io/badge/Solidity-informational?style=flat&logo=Solidity&color=black" alt="solidity-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logocolor=F05032&color=black" alt="git-logo"/>
-  <img height="25" src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logocolor=336791&color=black" alt="postgresql-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Colab-informational?style=flat&logo=GoogleColab&logocolor=181717&color=black" alt="colab-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Anaconda-informational?style=flat&logo=Anaconda&logocolor=181717&color=black" alt="anaconda-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=black" alt="django-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logocolor=181717&color=black" alt="jupyter-logo"/>
-  <img height="25" src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&color=black" alt="fastapi-logo"/>
-  <img height="25" src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=Javascript&color=black" alt="javascript-logo"/>
-  <img height="25" src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logocolor=red&color=black" alt="HTML5-logo"/>
-  <img height="25" src="https://img.shields.io/badge/mongodb-informational?style=flat&logo=MongoDB&logocolor=mongodb&color=black" alt="mongodb-logo"/>
-  <img height="25" src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logocolor=181717&color=black" alt="github-logo"/>
+  <img height="25" src="https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logocolor=181717&color=black" alt="Appium"/>
+  <img height="25" src="https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logocolor=00C7B7&color=black" alt="Cypress"/>
+  <img height="25" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=black" alt="Django"/>
+  <img height="25" src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&color=black" alt="FastAPI"/>
+  <img height="25" src="https://img.shields.io/badge/JMeter-informational?style=flat&logo=Apache%20JMeter&logoColor=D22128&color=black" alt="JMeter"/>
+  <img height="25" src="https://img.shields.io/badge/Colab-informational?style=flat&logo=GoogleColab&logocolor=181717&color=black" alt="Google Colab"/>
+  <img height="25" src="https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logocolor=181717&color=black" alt="Jupyter"/>
+  <img height="25" src="https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=FF6F00&color=black" alt="TensorFlow"/>
+  <img height="25" src="https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=EE4C2C&color=black" alt="PyTorch"/>
+  <img height="25" src="https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=F7931E&color=black" alt="Scikit-learn"/>
+  <img height="25" src="https://img.shields.io/badge/Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=black" alt="Pandas"/>
+  <img height="25" src="https://img.shields.io/badge/mongodb-informational?style=flat&logo=MongoDB&logocolor=mongodb&color=black" alt="MongoDB"/>
 </p>
-&nbsp;
 
 <hr style="border: none; height: 2px; background-color: #c799ff; margin: 20px 0 20px 0; width: 100%;">
 
@@ -332,7 +325,8 @@
 </h2>
 
 <div align="center">
-  <img class="img" width="80%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&show_icons=true&theme=radical">
+  <img style=width:80%;height:230; src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages"/>
+  <!-- <img class="img" width="80%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"> -->
 </div>
 &nbsp;
 
@@ -386,3 +380,25 @@
   </p>
 </div>
 </div>
+
+
+
+
+<!-- TECHNICAL SKILLS SECTION -->
+<h2 align="center" style="font-variant:small-caps; color:#c799ff">
+  Technical Skills 💼
+</h2>
+<p align="center" style="font-size: 1.2em;">
+  <img height="25" src="https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logocolor=181717&color=black" alt="Appium"/>
+  <img height="25" src="https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logocolor=00C7B7&color=black" alt="Cypress"/>
+  <img height="25" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=black" alt="Django"/>
+  <img height="25" src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&color=black" alt="FastAPI"/>
+  <img height="25" src="https://img.shields.io/badge/JMeter-informational?style=flat&logo=Apache%20JMeter&logoColor=D22128&color=black" alt="JMeter"/>
+  <img height="25" src="https://img.shields.io/badge/Colab-informational?style=flat&logo=GoogleColab&logocolor=181717&color=black" alt="Google Colab"/>
+  <img height="25" src="https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logocolor=181717&color=black" alt="Jupyter"/>
+  <img height="25" src="https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=FF6F00&color=black" alt="TensorFlow"/>
+  <img height="25" src="https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=EE4C2C&color=black" alt="PyTorch"/>
+  <img height="25" src="https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=F7931E&color=black" alt="Scikit-learn"/>
+  <img height="25" src="https://img.shields.io/badge/Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=black" alt="Pandas"/>
+  <img height="25" src="https://img.shields.io/badge/mongodb-informational?style=flat&logo=MongoDB&logocolor=mongodb&color=black" alt="MongoDB"/>
+</p>
