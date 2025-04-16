@@ -43,10 +43,10 @@
 
   <table style="font-size: 1.2em; border: none;"> 
     <tr style="border: none;">
-      <td style="border: none; width: 50%;">
-        <img style="width: 100%; height: 40%; max-width: 300px; max-height: 200px;" src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1" alt="Data Science GIF">
+      <td width="50%" border="none">
+        <img src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1" width="80%" alt="Data Science GIF" />
       </td>
-      <td style="border: none; width: 50%;">
+      <td border="none" width="50%">
         <ul>
           <li>
             Transform complex datasets into insights.
@@ -75,7 +75,7 @@
 
   <table style="font-size: 1.2em; border: none;"> 
     <tr style="border: none;">
-      <td style="border: none; width: 50%;">
+      <td width="50%" border="none">
         <ul>
           <li>
             Implement comprehensive manual and automated tests.
@@ -94,7 +94,7 @@
           </li>
       </ul>
       </td>
-      <td style="border: none; width: 50%;">
+      <td border="none" width="50%">
         <img style="width: 100%; height: 110%; max-width: 400px; max-height: 400px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="QA process">
       </td>
     </tr>
