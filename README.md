@@ -40,6 +40,9 @@
 
   <!-- DATA SCIENCE SECTION -->
   ### `Data Science Expertise`
+  <p style="font-size: 1.2em;" align="justify">
+    As a Data Scientist, I specialize in transforming raw data into actionable insights. My experience includes data cleaning, exploratory data analysis, and building predictive models using machine learning algorithms. I am proficient in Python, SQL, and various data visualization tools.
+  </p>
 
   <table style="font-size: 1.2em; border: none;"> 
     <tr border="none">
@@ -72,7 +75,9 @@
 
   <!-- QA SECTION -->
   ### `Quality Assurance Testing`
-
+  <p style="font-size: 1.2em;" align="justify">
+    As a Software QA Tester, I ensure that software products meet the highest quality standards. My experience includes manual and automated testing, API testing, and performance testing. I am proficient in using tools like Postman, JMeter, and Cypress to identify and resolve issues before they reach the end user.
+  </p>
   <table style="font-size: 1.2em; border: none;"> 
     <tr style="border: none;">
       <td width="50%" border="none">
