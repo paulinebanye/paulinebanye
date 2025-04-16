@@ -315,7 +315,7 @@
 </h2>
 
 <div align="center">
-  <img class="img" width="80%" src="https://github-readme-stats.vercel.app/api?username=paulinebanye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=paulinebanye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 &nbsp;
 
@@ -325,8 +325,7 @@
 </h2>
 
 <div align="center">
-  <img style=width:80%;height:230; src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages"/>
-  <!-- <img class="img" width="80%" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"> -->
+  <img width="80%" style=height:250; src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinebanye&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Top Languages"/>
 </div>
 &nbsp;
 
@@ -336,7 +335,9 @@
 </h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paulinebanye&theme=radical" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=paulinebanye&theme=radical&title_size=10" alt="GitHub Streak" width="80%"/>
+  </a>
 </div>
 &nbsp;
 
@@ -355,9 +356,9 @@
   Trophies 🏆
 </h2>
 
-<div align="center">
-  <img class="img" width="80%" src="https://github-profile-trophy.vercel.app/?username=paulinebanye&show_icons=true&theme=radical"/>
-</div>
+<p align="center">
+  <img width="80%" align="center" src="https://github-profile-trophy.vercel.app/?username=paulinebanye&theme=radical&column=5&title_size=10&width=10&height=10&margin-w=2&margin-h=2&no-frame=true&no-bg=true&row=2" alt="my trophies"/>
+</p>
 &nbsp;
 
 <hr style="border: none; height: 2px; background-color: #c799ff; margin: 20px 0 20px 0; width: 100%;">
@@ -380,25 +381,3 @@
   </p>
 </div>
 </div>
-
-
-
-
-<!-- TECHNICAL SKILLS SECTION -->
-<h2 align="center" style="font-variant:small-caps; color:#c799ff">
-  Technical Skills 💼
-</h2>
-<p align="center" style="font-size: 1.2em;">
-  <img height="25" src="https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logocolor=181717&color=black" alt="Appium"/>
-  <img height="25" src="https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logocolor=00C7B7&color=black" alt="Cypress"/>
-  <img height="25" src="https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=black" alt="Django"/>
-  <img height="25" src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&color=black" alt="FastAPI"/>
-  <img height="25" src="https://img.shields.io/badge/JMeter-informational?style=flat&logo=Apache%20JMeter&logoColor=D22128&color=black" alt="JMeter"/>
-  <img height="25" src="https://img.shields.io/badge/Colab-informational?style=flat&logo=GoogleColab&logocolor=181717&color=black" alt="Google Colab"/>
-  <img height="25" src="https://img.shields.io/badge/Jupyter-informational?style=flat&logo=Jupyter&logocolor=181717&color=black" alt="Jupyter"/>
-  <img height="25" src="https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=FF6F00&color=black" alt="TensorFlow"/>
-  <img height="25" src="https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=EE4C2C&color=black" alt="PyTorch"/>
-  <img height="25" src="https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=F7931E&color=black" alt="Scikit-learn"/>
-  <img height="25" src="https://img.shields.io/badge/Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=black" alt="Pandas"/>
-  <img height="25" src="https://img.shields.io/badge/mongodb-informational?style=flat&logo=MongoDB&logocolor=mongodb&color=black" alt="MongoDB"/>
-</p>
