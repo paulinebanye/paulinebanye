@@ -42,9 +42,9 @@
   ### `Data Science Expertise`
 
   <table style="font-size: 1.2em; border: none;"> 
-    <tr style="border: none;">
+    <tr border="none" align="center">
       <td width="50%">
-        <img src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1" width="80%" max-width="400px" max-height="400px" alt="Data Science GIF"/>
+        <img src="https://i0.wp.com/miro.medium.com/v2/resize:fit:700/1*oNQdz3-wTV8Uo_mainA8xA.gif?ssl=1" width="80%" max-height="400px" alt="Data Science GIF"/>
       </td>
       <td border="none" width="50%">
         <ul>
