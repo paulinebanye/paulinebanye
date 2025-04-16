@@ -95,7 +95,7 @@
       </ul>
       </td>
       <td width="50%" align="center">
-        <img style="width: 90%; height: 120%;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="QA process">
+        <img style="width: 400px height: 120%;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFhMm5rcjA1MDRndHloM2V0ZWdwcHNsNXFnYjkyaHA0bThnOTdzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="QA process">
       </td>
     </tr>
   </table>
