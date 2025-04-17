@@ -119,7 +119,7 @@
   <img src="https://t4.ftcdn.net/jpg/04/42/21/53/360_F_442215355_AjiR6ogucq3vPzjFAAEfwbPXYGqYVAap.jpg" width="400px"/>
   </p>
   <p align="justify">
-    I also volunteer, and contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" aligh="center" width="20px"/>!
+    I also volunteer, and contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" style="vertical-align:top" width="23px"/>!
   </p>
   </div>
 
