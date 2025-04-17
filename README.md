@@ -17,7 +17,6 @@
 
   <!-- WHO I AM SECTION -->
   <h2 style="font-variant: small-caps; font-weight: bold; align:center; color:#c799ff;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/> 
     Who I am:
   </h2>
 
@@ -41,7 +40,7 @@
   <!-- DATA SCIENCE SECTION -->
   ### `Data Science Expertise`
   <p style="font-size: 1.2em;" align="justify">
-    As a Data Scientist, I specialize in transforming raw data into actionable insights. My experience includes data cleaning, exploratory data analysis, and building predictive models using machine learning algorithms. I am proficient in Python, SQL, and various data visualization tools.
+    I'm a Data Scientist who loves turning messy data into clear, useful insights. I dig into data to find patterns, build smart models that can make relatively accurate predictions (i.e. is Arsenal going to win their next match? 😏), and bring data stories to life through visuals. Quite simply, I: 
   </p>
 
   <table style="font-size: 1.2em; border: none;"> 
@@ -52,10 +51,10 @@
       <td border="none" width="50%">
         <ul>
           <li>
-            Transform complex datasets into insights.
+            Convert raw data into meaningful insights
           </li>
           <li>
-            Use Machine Learning algorithms to develop predictive models.
+            Build predictive models using machine learning algorithms.
           </li>
           <li>
             Create visualizations to tell compelling data stories.
@@ -64,7 +63,7 @@
             Apply statistical analysis to validate findings.
           </li>
           <li>
-            Forecast future outcomes to drive business growth.
+            Use historical and current data predict future outcomes.
           </li>
         </ul>
       </td>
@@ -76,26 +75,27 @@
   <!-- QA SECTION -->
   ### `Quality Assurance Testing`
   <p style="font-size: 1.2em;" align="justify">
-    As a Software QA Tester, I ensure that software products meet the highest quality standards. My experience includes manual and automated testing, API testing, and performance testing. I am proficient in using tools like Postman, JMeter, and Cypress to identify and resolve issues before they reach the end user.
+    I'm a Software QA Tester who’s basically the bug detective behind the scenes. I break things (on purpose! 😂) so users don’t have to. From manual test cases to automated scripts, I make sure every click, tap, and swipe works smoothly, before anyone else sees the mess.   
+    As a Software QA Tester, I:
   </p>
   <table style="font-size: 1.2em; border: none;"> 
     <tr style="border: none;">
       <td width="50%" border="none">
         <ul>
           <li>
-            Implement comprehensive manual and automated tests.
+            Run both manual and automated tests using tools like Cypress to catch bugs before users do
+          </li>
+          <li>  
+            Use Postman and Cypress to automate API checks in CI/CD pipelines.
           </li>
           <li>
-            Conduct thorough API and End-to-end (E2E) testing.
+            Stress test apps with JMeter to see how they perform under pressure.
           </li>
           <li>
-            Integrate Postman test scripts into CI/CD pipelines for automated API status monitoring.
+            Perform API and end-to-end testing to make sure there is complete test coverage.
           </li>
           <li>
-            Optimize software performance with load and stress testing.
-          </li>
-          <li>
-            Identify and report software usability and accessibility issues.
+            Identify and report any usability and accessibility issues that would affect the user experience
           </li>
       </ul>
       </td>
@@ -105,14 +105,22 @@
     </tr>
   </table>
   
-  ---
+  <br>
   <div style="font-size: 1.2em;">
     <p align="justify">
       I've learned that success in both fields requires more than technical skills. It's about asking the right questions, thinking creatively, and effectively communicating complex ideas.
     </p>
-    <p align="justify">
-      I'm a creative team player and results-oriented leader with a track record of effectively leading multiple teams to success in various internships, one of which ultimately won a blockchain hackaton. I believe in giving back and one of my passions is volunteering. I also contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate!
-    </p>
+
+  ---  
+  <p align="justify">
+    But my life isn't all about coding. I love going on adevntures and playing games! In my spare time, if I'm not playing a game like CODM, you'll probably find me hosting games night!
+  </p>
+  <p width="50%" align="center">
+  <img src="https://t4.ftcdn.net/jpg/04/42/21/53/360_F_442215355_AjiR6ogucq3vPzjFAAEfwbPXYGqYVAap.jpg" width="400px"/>
+  </p>
+  <p align="justify">
+    I also volunteer, and contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" aligh="center" width="20px"/>!
+  </p>
   </div>
 
 <!-- PROJECTS SECTION (HIDDEN) -->
@@ -285,11 +293,11 @@
   Languages - Tools 📚
 </h2>
 <p style="font-size: 1.2em;line-height:3" align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,anaconda,python,git,github,vscode,postman,mysql,postgresql" height="45" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40" style="vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=javascript,mysql,anaconda,git,python,github,vscode,postman,postgresql" height="45" style="vertical-align:middle;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" style="vertical-align:middle;"/>
   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="Tableau" width="45" height="45" style="vertical-align:middle;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="35" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40" style="vertical-align:middle;"/>
 </p>
 &nbsp;        
 
