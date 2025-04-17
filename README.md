@@ -297,7 +297,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,mysql,anaconda,git,python,github,vscode,postman,postgresql" height="45" style="vertical-align:middle;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" style="vertical-align:middle;"/>
   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="Tableau" width="45" height="45" style="vertical-align:middle;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="43" height="33" style="vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="vertical-align:middle;"/>
 </p>
 &nbsp;        
 
