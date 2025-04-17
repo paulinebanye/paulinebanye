@@ -119,7 +119,7 @@
   <img src="https://t4.ftcdn.net/jpg/04/42/21/53/360_F_442215355_AjiR6ogucq3vPzjFAAEfwbPXYGqYVAap.jpg" width="400px"/>
   </p>
   <p align="justify">
-    I also volunteer, and contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" style="vertical-align:top" width="23px"/>!
+    I also volunteer, and contribute actively to open source projects, so if you have an amazing project, reach out, let's collaborate <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"/>!
   </p>
   </div>
 
@@ -293,11 +293,11 @@
   Languages - Tools 📚
 </h2>
 <p style="font-size: 1.2em;line-height:3" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="38" height="40" style="vertical-align:middle"/>
-  <img src="https://skillicons.dev/icons?i=javascript,mysql,anaconda,git,python,github,vscode,postman,postgresql" height="45" style="vertical-align:middle;"/>
+  <img src="https://skillicons.dev/icons?i=javascript,anaconda,python,git,github,vscode,postman,mysql,postgresql" height="45" style="vertical-align:middle;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" style="vertical-align:middle;"/>
   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="Tableau" width="45" height="45" style="vertical-align:middle;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45" height="35" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40" style="vertical-align:middle;"/>
 </p>
 &nbsp;        
 
